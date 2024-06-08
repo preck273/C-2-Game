@@ -1,0 +1,544 @@
+C:\Users\humao\source\repos\barArcadeGame\bin\Debug\net6.0\barArcadeGame.exe
+C:\Users\humao\source\repos\barArcadeGame\bin\Debug\net6.0\barArcadeGame.deps.json
+C:\Users\humao\source\repos\barArcadeGame\bin\Debug\net6.0\barArcadeGame.runtimeconfig.json
+C:\Users\humao\source\repos\barArcadeGame\bin\Debug\net6.0\barArcadeGame.dll
+C:\Users\humao\source\repos\barArcadeGame\bin\Debug\net6.0\barArcadeGame.pdb
+C:\Users\humao\source\repos\barArcadeGame\bin\Debug\net6.0\MonoGame.Framework.dll
+C:\Users\humao\source\repos\barArcadeGame\bin\Debug\net6.0\runtimes\linux-x64\native\libSDL2-2.0.so.0
+C:\Users\humao\source\repos\barArcadeGame\bin\Debug\net6.0\runtimes\linux-x64\native\libopenal.so.1
+C:\Users\humao\source\repos\barArcadeGame\bin\Debug\net6.0\runtimes\osx\native\libSDL2.dylib
+C:\Users\humao\source\repos\barArcadeGame\bin\Debug\net6.0\runtimes\osx\native\libopenal.1.dylib
+C:\Users\humao\source\repos\barArcadeGame\bin\Debug\net6.0\runtimes\win-x64\native\SDL2.dll
+C:\Users\humao\source\repos\barArcadeGame\bin\Debug\net6.0\runtimes\win-x64\native\soft_oal.dll
+C:\Users\humao\source\repos\barArcadeGame\bin\Debug\net6.0\runtimes\win-x86\native\SDL2.dll
+C:\Users\humao\source\repos\barArcadeGame\bin\Debug\net6.0\runtimes\win-x86\native\soft_oal.dll
+C:\Users\humao\source\repos\barArcadeGame\obj\Debug\net6.0\barArcadeGame.csproj.AssemblyReference.cache
+C:\Users\humao\source\repos\barArcadeGame\obj\Debug\net6.0\barArcadeGame.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\humao\source\repos\barArcadeGame\obj\Debug\net6.0\barArcadeGame.AssemblyInfoInputs.cache
+C:\Users\humao\source\repos\barArcadeGame\obj\Debug\net6.0\barArcadeGame.AssemblyInfo.cs
+C:\Users\humao\source\repos\barArcadeGame\obj\Debug\net6.0\barArcadeGame.csproj.CoreCompileInputs.cache
+C:\Users\humao\source\repos\barArcadeGame\obj\Debug\net6.0\barArcadeGame.csproj.CopyComplete
+C:\Users\humao\source\repos\barArcadeGame\obj\Debug\net6.0\barArcadeGame.dll
+C:\Users\humao\source\repos\barArcadeGame\obj\Debug\net6.0\refint\barArcadeGame.dll
+C:\Users\humao\source\repos\barArcadeGame\obj\Debug\net6.0\barArcadeGame.pdb
+C:\Users\humao\source\repos\barArcadeGame\obj\Debug\net6.0\barArcadeGame.genruntimeconfig.cache
+C:\Users\humao\source\repos\barArcadeGame\obj\Debug\net6.0\ref\barArcadeGame.dll
+C:\Users\humao\source\repos\barArcadeGame\bin\Debug\net6.0\Content\Spaceship 3\Spaceship 3.tmx
+C:\Users\humao\source\repos\barArcadeGame\bin\Debug\net6.0\Content\Spaceship 3\Spaceship 3.xnb
+C:\Users\humao\source\repos\barArcadeGame\bin\Debug\net6.0\Content\testTile\55.xnb
+C:\Users\humao\source\repos\barArcadeGame\bin\Debug\net6.0\Content\testTile\bamboo-doorv2.xnb
+C:\Users\humao\source\repos\barArcadeGame\bin\Debug\net6.0\Content\testTile\testTile.tmx
+C:\Users\humao\source\repos\barArcadeGame\bin\Debug\net6.0\Content\testTile\tileset.xnb
+C:\Users\humao\source\repos\barArcadeGame\bin\Debug\net6.0\Content\Tiny Adventure Pack\Character\Char_one\Attack\Char_atk_down.xnb
+C:\Users\humao\source\repos\barArcadeGame\bin\Debug\net6.0\Content\Tiny Adventure Pack\Character\Char_one\Attack\Char_atk_left.xnb
+C:\Users\humao\source\repos\barArcadeGame\bin\Debug\net6.0\Content\Tiny Adventure Pack\Character\Char_one\Attack\Char_atk_right.xnb
+C:\Users\humao\source\repos\barArcadeGame\bin\Debug\net6.0\Content\Tiny Adventure Pack\Character\Char_one\Attack\Char_atk_up.xnb
+C:\Users\humao\source\repos\barArcadeGame\bin\Debug\net6.0\Content\Tiny Adventure Pack\Character\Char_one\Char_4_sides.xnb
+C:\Users\humao\source\repos\barArcadeGame\bin\Debug\net6.0\Content\Tiny Adventure Pack\Character\Char_one\Idle\Char_idle_down.xnb
+C:\Users\humao\source\repos\barArcadeGame\bin\Debug\net6.0\Content\Tiny Adventure Pack\Character\Char_one\Idle\Char_idle_left.xnb
+C:\Users\humao\source\repos\barArcadeGame\bin\Debug\net6.0\Content\Tiny Adventure Pack\Character\Char_one\Idle\Char_idle_right.xnb
+C:\Users\humao\source\repos\barArcadeGame\bin\Debug\net6.0\Content\Tiny Adventure Pack\Character\Char_one\Idle\Char_idle_up.xnb
+C:\Users\humao\source\repos\barArcadeGame\bin\Debug\net6.0\Content\Tiny Adventure Pack\Character\Char_one\Walk\Char_walk_down.xnb
+C:\Users\humao\source\repos\barArcadeGame\bin\Debug\net6.0\Content\Tiny Adventure Pack\Character\Char_one\Walk\Char_walk_left.xnb
+C:\Users\humao\source\repos\barArcadeGame\bin\Debug\net6.0\Content\Tiny Adventure Pack\Character\Char_one\Walk\Char_walk_right.xnb
+C:\Users\humao\source\repos\barArcadeGame\bin\Debug\net6.0\Content\Tiny Adventure Pack\Character\Char_one\Walk\Char_walk_up.xnb
+C:\Users\humao\source\repos\barArcadeGame\bin\Debug\net6.0\Content\Tiny Adventure Pack\Character\Char_two\Attack\1.xnb
+C:\Users\humao\source\repos\barArcadeGame\bin\Debug\net6.0\Content\Tiny Adventure Pack\Character\Char_two\Attack\2.xnb
+C:\Users\humao\source\repos\barArcadeGame\bin\Debug\net6.0\Content\Tiny Adventure Pack\Character\Char_two\Attack\3.xnb
+C:\Users\humao\source\repos\barArcadeGame\bin\Debug\net6.0\Content\Tiny Adventure Pack\Character\Char_two\Attack\4.xnb
+C:\Users\humao\source\repos\barArcadeGame\bin\Debug\net6.0\Content\Tiny Adventure Pack\Character\Char_two\Char2_4sides.xnb
+C:\Users\humao\source\repos\barArcadeGame\bin\Debug\net6.0\Content\Tiny Adventure Pack\Character\Char_two\Idle\Char2_idle_down.xnb
+C:\Users\humao\source\repos\barArcadeGame\bin\Debug\net6.0\Content\Tiny Adventure Pack\Character\Char_two\Idle\Char2_idle_left.xnb
+C:\Users\humao\source\repos\barArcadeGame\bin\Debug\net6.0\Content\Tiny Adventure Pack\Character\Char_two\Idle\Char2_idle_right.xnb
+C:\Users\humao\source\repos\barArcadeGame\bin\Debug\net6.0\Content\Tiny Adventure Pack\Character\Char_two\Idle\Char2_idle_up.xnb
+C:\Users\humao\source\repos\barArcadeGame\bin\Debug\net6.0\Content\Tiny Adventure Pack\Character\Char_two\Idle\playerSheetIdle.sf
+C:\Users\humao\source\repos\barArcadeGame\bin\Debug\net6.0\Content\Tiny Adventure Pack\Character\Char_two\Idle\playerSheetIdle.xnb
+C:\Users\humao\source\repos\barArcadeGame\bin\Debug\net6.0\Content\Tiny Adventure Pack\Character\Char_two\Walk\Char2_walk_down.xnb
+C:\Users\humao\source\repos\barArcadeGame\bin\Debug\net6.0\Content\Tiny Adventure Pack\Character\Char_two\Walk\Char2_walk_left.xnb
+C:\Users\humao\source\repos\barArcadeGame\bin\Debug\net6.0\Content\Tiny Adventure Pack\Character\Char_two\Walk\Char2_walk_right.xnb
+C:\Users\humao\source\repos\barArcadeGame\bin\Debug\net6.0\Content\Tiny Adventure Pack\Character\Char_two\Walk\Char2_walk_up.xnb
+C:\Users\humao\source\repos\barArcadeGame\bin\Debug\net6.0\Content\Tiny Adventure Pack\Character\Char_two\Walk\playerSheetWalk.sf
+C:\Users\humao\source\repos\barArcadeGame\bin\Debug\net6.0\Content\Tiny Adventure Pack\Character\Char_two\Walk\playerSheetWalk.xnb
+C:\Users\humao\source\repos\barArcadeGame\bin\Debug\net6.0\Content\Tiny Adventure Pack\env.xnb
+C:\Users\humao\source\repos\barArcadeGame\bin\Debug\net6.0\Content\Tiny Adventure Pack\Other\Blue_orb.xnb
+C:\Users\humao\source\repos\barArcadeGame\bin\Debug\net6.0\Content\Tiny Adventure Pack\Other\Coin.xnb
+C:\Users\humao\source\repos\barArcadeGame\bin\Debug\net6.0\Content\Tiny Adventure Pack\Other\Green_orb.xnb
+C:\Users\humao\source\repos\barArcadeGame\bin\Debug\net6.0\Content\Tiny Adventure Pack\Other\Heart.xnb
+C:\Users\humao\source\repos\barArcadeGame\bin\Debug\net6.0\Content\Tiny Adventure Pack\Other\Misc\Bush.xnb
+C:\Users\humao\source\repos\barArcadeGame\bin\Debug\net6.0\Content\Tiny Adventure Pack\Other\Misc\Chest.xnb
+C:\Users\humao\source\repos\barArcadeGame\bin\Debug\net6.0\Content\Tiny Adventure Pack\Other\Misc\Grass.xnb
+C:\Users\humao\source\repos\barArcadeGame\bin\Debug\net6.0\Content\Tiny Adventure Pack\Other\Misc\Rock.xnb
+C:\Users\humao\source\repos\barArcadeGame\bin\Debug\net6.0\Content\Tiny Adventure Pack\Other\Misc\Sign.xnb
+C:\Users\humao\source\repos\barArcadeGame\bin\Debug\net6.0\Content\Tiny Adventure Pack\Other\Misc\Tree\Tree.xnb
+C:\Users\humao\source\repos\barArcadeGame\bin\Debug\net6.0\Content\Tiny Adventure Pack\Other\Misc\Tree\Tree_top.xnb
+C:\Users\humao\source\repos\barArcadeGame\bin\Debug\net6.0\Content\Tiny Adventure Pack\Other\Misc\Tree\Tree_trunk.xnb
+C:\Users\humao\source\repos\barArcadeGame\bin\Debug\net6.0\Content\Tiny Adventure Pack\Other\Red_orb.xnb
+C:\Users\humao\source\repos\barArcadeGame\bin\Debug\net6.0\Content\Tiny Adventure Pack\Skeleton\Idle\Skel_idle_down.xnb
+C:\Users\humao\source\repos\barArcadeGame\bin\Debug\net6.0\Content\Tiny Adventure Pack\Skeleton\Idle\Skel_idle_left.xnb
+C:\Users\humao\source\repos\barArcadeGame\bin\Debug\net6.0\Content\Tiny Adventure Pack\Skeleton\Idle\Skel_idle_right.xnb
+C:\Users\humao\source\repos\barArcadeGame\bin\Debug\net6.0\Content\Tiny Adventure Pack\Skeleton\Idle\Skel_idle_up.xnb
+C:\Users\humao\source\repos\barArcadeGame\bin\Debug\net6.0\Content\Tiny Adventure Pack\Skeleton\Skel_4Sides.xnb
+C:\Users\humao\source\repos\barArcadeGame\bin\Debug\net6.0\Content\Tiny Adventure Pack\Skeleton\Walk\Skel_walk_down.xnb
+C:\Users\humao\source\repos\barArcadeGame\bin\Debug\net6.0\Content\Tiny Adventure Pack\Skeleton\Walk\Skel_walk_left.xnb
+C:\Users\humao\source\repos\barArcadeGame\bin\Debug\net6.0\Content\Tiny Adventure Pack\Skeleton\Walk\Skel_walk_right.xnb
+C:\Users\humao\source\repos\barArcadeGame\bin\Debug\net6.0\Content\Tiny Adventure Pack\Skeleton\Walk\Skel_walk_up.xnb
+C:\Users\humao\source\repos\barArcadeGame\bin\Debug\net6.0\Autofac.dll
+C:\Users\humao\source\repos\barArcadeGame\bin\Debug\net6.0\MonoGame.Extended.dll
+C:\Users\humao\source\repos\barArcadeGame\bin\Debug\net6.0\MonoGame.Extended.Graphics.dll
+C:\Users\humao\source\repos\barArcadeGame\bin\Debug\net6.0\MonoGame.Extended.Tiled.dll
+C:\Users\humao\source\repos\barArcadeGame\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\humao\source\repos\barArcadeGame\bin\Debug\net6.0\GeonBit.UI.DataTypes.dll
+C:\Users\humao\source\repos\barArcadeGame\bin\Debug\net6.0\Content\Font\defaultFont.spritefont
+C:\Users\humao\source\repos\barArcadeGame\bin\Debug\net6.0\Content\Font\defaultFont.xnb
+C:\Users\humao\source\repos\barArcadeGame\bin\Debug\net6.0\Content\picture\coin.xnb
+C:\Users\humao\source\repos\barArcadeGame\bin\Debug\net6.0\Content\picture\exit.xnb
+C:\Users\humao\source\repos\barArcadeGame\bin\Debug\net6.0\Content\picture\next.xnb
+C:\Users\humao\source\repos\barArcadeGame\bin\Debug\net6.0\Content\picture\checked.xnb
+C:\Users\humao\source\repos\barArcadeGame\bin\Debug\net6.0\Content\picture\unchecked.xnb
+C:\Users\humao\source\repos\barArcadeGame\bin\Debug\net6.0\Content\picture\hero.xnb
+C:\Users\humao\source\repos\barArcadeGame\bin\Debug\net6.0\Content\barMap\kitchen.xnb
+C:\Users\humao\source\repos\barArcadeGame\bin\Debug\net6.0\Content\barMap\mapBar.tmx
+C:\Users\humao\source\repos\barArcadeGame\bin\Debug\net6.0\Content\arcade\mapArcade.tmx
+C:\Users\humao\source\repos\barArcadeGame\bin\Debug\net6.0\Content\arcade\items.xnb
+C:\Users\humao\source\repos\barArcadeGame\bin\Debug\net6.0\Content\arcade\arcadeRoom.tmx
+C:\Users\humao\source\repos\barArcadeGame\bin\Debug\net6.0\Content\picture\door.xnb
+C:\Users\humao\source\repos\barArcadeGame\bin\Debug\net6.0\Content\picture\arcadeMachine.xnb
+C:\Users\humao\source\repos\barArcadeGame\bin\Debug\net6.0\Content\picture\ninja.xnb
+C:\Users\humao\source\repos\barArcadeGame\bin\Debug\net6.0\Content\Sound\flip.xnb
+C:\Users\humao\source\repos\barArcadeGame\bin\Debug\net6.0\Content\Sound\music.ogg
+C:\Users\humao\source\repos\barArcadeGame\bin\Debug\net6.0\Content\Sound\music.xnb
+C:\Users\humao\source\repos\barArcadeGame\bin\Debug\net6.0\Content\Sound\tear.xnb
+C:\Users\humao\source\repos\barArcadeGame\bin\Debug\net6.0\Content\Sound\victory.ogg
+C:\Users\humao\source\repos\barArcadeGame\bin\Debug\net6.0\Content\Sound\victory.xnb
+C:\Users\humao\source\repos\barArcadeGame\bin\Debug\net6.0\Content\picture\music.xnb
+C:\Users\humao\source\repos\barArcadeGame\bin\Debug\net6.0\Content\picture\sounds.xnb
+C:\Users\humao\source\repos\barArcadeGame\bin\Debug\net6.0\Content\picture\win.xnb
+C:\Users\Gebruiker\Documents\GitHub\c#2\barArcadeGame\obj\Debug\net6.0\barArcadeGame.csproj.AssemblyReference.cache
+C:\Users\Gebruiker\Documents\GitHub\c#2\barArcadeGame\obj\Debug\net6.0\barArcadeGame.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gebruiker\Documents\GitHub\c#2\barArcadeGame\obj\Debug\net6.0\barArcadeGame.AssemblyInfoInputs.cache
+C:\Users\Gebruiker\Documents\GitHub\c#2\barArcadeGame\obj\Debug\net6.0\barArcadeGame.AssemblyInfo.cs
+C:\Users\Gebruiker\Documents\GitHub\c#2\barArcadeGame\obj\Debug\net6.0\barArcadeGame.csproj.CoreCompileInputs.cache
+C:\Users\Gebruiker\Documents\GitHub\c#2\barArcadeGame\obj\Debug\net6.0\barArcadeGame.dll
+C:\Users\Gebruiker\Documents\GitHub\c#2\barArcadeGame\obj\Debug\net6.0\refint\barArcadeGame.dll
+C:\Users\Gebruiker\Documents\GitHub\c#2\barArcadeGame\obj\Debug\net6.0\barArcadeGame.pdb
+C:\Users\Gebruiker\Documents\GitHub\c#2\barArcadeGame\bin\Debug\net6.0\Content\arcade\arcadeRoom.tmx
+C:\Users\Gebruiker\Documents\GitHub\c#2\barArcadeGame\bin\Debug\net6.0\Content\arcade\mapArcade.tmx
+C:\Users\Gebruiker\Documents\GitHub\c#2\barArcadeGame\bin\Debug\net6.0\Content\barMap\mapBar.tmx
+C:\Users\Gebruiker\Documents\GitHub\c#2\barArcadeGame\bin\Debug\net6.0\Content\Spaceship 3\Spaceship 3.tmx
+C:\Users\Gebruiker\Documents\GitHub\c#2\barArcadeGame\bin\Debug\net6.0\Content\testTile\testTile.tmx
+C:\Users\Gebruiker\Documents\GitHub\c#2\barArcadeGame\bin\Debug\net6.0\Content\Tiny Adventure Pack\Character\Char_two\Idle\playerSheetIdle.sf
+C:\Users\Gebruiker\Documents\GitHub\c#2\barArcadeGame\bin\Debug\net6.0\Content\Tiny Adventure Pack\Character\Char_two\Walk\playerSheetWalk.sf
+C:\Users\Gebruiker\Documents\GitHub\c#2\barArcadeGame\bin\Debug\net6.0\Content\Font\defaultFont.spritefont
+C:\Users\Gebruiker\Documents\GitHub\c#2\barArcadeGame\bin\Debug\net6.0\Content\arcade\items.xnb
+C:\Users\Gebruiker\Documents\GitHub\c#2\barArcadeGame\bin\Debug\net6.0\Content\barMap\kitchen.xnb
+C:\Users\Gebruiker\Documents\GitHub\c#2\barArcadeGame\bin\Debug\net6.0\Content\Font\defaultFont.xnb
+C:\Users\Gebruiker\Documents\GitHub\c#2\barArcadeGame\bin\Debug\net6.0\Content\picture\arcadeMachine.xnb
+C:\Users\Gebruiker\Documents\GitHub\c#2\barArcadeGame\bin\Debug\net6.0\Content\picture\checked.xnb
+C:\Users\Gebruiker\Documents\GitHub\c#2\barArcadeGame\bin\Debug\net6.0\Content\picture\coin.xnb
+C:\Users\Gebruiker\Documents\GitHub\c#2\barArcadeGame\bin\Debug\net6.0\Content\picture\door.xnb
+C:\Users\Gebruiker\Documents\GitHub\c#2\barArcadeGame\bin\Debug\net6.0\Content\picture\exit.xnb
+C:\Users\Gebruiker\Documents\GitHub\c#2\barArcadeGame\bin\Debug\net6.0\Content\picture\hero.xnb
+C:\Users\Gebruiker\Documents\GitHub\c#2\barArcadeGame\bin\Debug\net6.0\Content\picture\music.xnb
+C:\Users\Gebruiker\Documents\GitHub\c#2\barArcadeGame\bin\Debug\net6.0\Content\picture\next.xnb
+C:\Users\Gebruiker\Documents\GitHub\c#2\barArcadeGame\bin\Debug\net6.0\Content\picture\ninja.xnb
+C:\Users\Gebruiker\Documents\GitHub\c#2\barArcadeGame\bin\Debug\net6.0\Content\picture\sounds.xnb
+C:\Users\Gebruiker\Documents\GitHub\c#2\barArcadeGame\bin\Debug\net6.0\Content\picture\unchecked.xnb
+C:\Users\Gebruiker\Documents\GitHub\c#2\barArcadeGame\bin\Debug\net6.0\Content\picture\win.xnb
+C:\Users\Gebruiker\Documents\GitHub\c#2\barArcadeGame\bin\Debug\net6.0\Content\Sound\flip.xnb
+C:\Users\Gebruiker\Documents\GitHub\c#2\barArcadeGame\bin\Debug\net6.0\Content\Sound\music.ogg
+C:\Users\Gebruiker\Documents\GitHub\c#2\barArcadeGame\bin\Debug\net6.0\Content\Sound\music.xnb
+C:\Users\Gebruiker\Documents\GitHub\c#2\barArcadeGame\bin\Debug\net6.0\Content\Sound\tear.xnb
+C:\Users\Gebruiker\Documents\GitHub\c#2\barArcadeGame\bin\Debug\net6.0\Content\Sound\victory.ogg
+C:\Users\Gebruiker\Documents\GitHub\c#2\barArcadeGame\bin\Debug\net6.0\Content\Sound\victory.xnb
+C:\Users\Gebruiker\Documents\GitHub\c#2\barArcadeGame\bin\Debug\net6.0\Content\Spaceship 3\Spaceship 3.xnb
+C:\Users\Gebruiker\Documents\GitHub\c#2\barArcadeGame\bin\Debug\net6.0\Content\testTile\55.xnb
+C:\Users\Gebruiker\Documents\GitHub\c#2\barArcadeGame\bin\Debug\net6.0\Content\testTile\bamboo-doorv2.xnb
+C:\Users\Gebruiker\Documents\GitHub\c#2\barArcadeGame\bin\Debug\net6.0\Content\testTile\tileset.xnb
+C:\Users\Gebruiker\Documents\GitHub\c#2\barArcadeGame\bin\Debug\net6.0\Content\Tiny Adventure Pack\Character\Char_one\Attack\Char_atk_down.xnb
+C:\Users\Gebruiker\Documents\GitHub\c#2\barArcadeGame\bin\Debug\net6.0\Content\Tiny Adventure Pack\Character\Char_one\Attack\Char_atk_left.xnb
+C:\Users\Gebruiker\Documents\GitHub\c#2\barArcadeGame\bin\Debug\net6.0\Content\Tiny Adventure Pack\Character\Char_one\Attack\Char_atk_right.xnb
+C:\Users\Gebruiker\Documents\GitHub\c#2\barArcadeGame\bin\Debug\net6.0\Content\Tiny Adventure Pack\Character\Char_one\Attack\Char_atk_up.xnb
+C:\Users\Gebruiker\Documents\GitHub\c#2\barArcadeGame\bin\Debug\net6.0\Content\Tiny Adventure Pack\Character\Char_one\Char_4_sides.xnb
+C:\Users\Gebruiker\Documents\GitHub\c#2\barArcadeGame\bin\Debug\net6.0\Content\Tiny Adventure Pack\Character\Char_one\Idle\Char_idle_down.xnb
+C:\Users\Gebruiker\Documents\GitHub\c#2\barArcadeGame\bin\Debug\net6.0\Content\Tiny Adventure Pack\Character\Char_one\Idle\Char_idle_left.xnb
+C:\Users\Gebruiker\Documents\GitHub\c#2\barArcadeGame\bin\Debug\net6.0\Content\Tiny Adventure Pack\Character\Char_one\Idle\Char_idle_right.xnb
+C:\Users\Gebruiker\Documents\GitHub\c#2\barArcadeGame\bin\Debug\net6.0\Content\Tiny Adventure Pack\Character\Char_one\Idle\Char_idle_up.xnb
+C:\Users\Gebruiker\Documents\GitHub\c#2\barArcadeGame\bin\Debug\net6.0\Content\Tiny Adventure Pack\Character\Char_one\Walk\Char_walk_down.xnb
+C:\Users\Gebruiker\Documents\GitHub\c#2\barArcadeGame\bin\Debug\net6.0\Content\Tiny Adventure Pack\Character\Char_one\Walk\Char_walk_left.xnb
+C:\Users\Gebruiker\Documents\GitHub\c#2\barArcadeGame\bin\Debug\net6.0\Content\Tiny Adventure Pack\Character\Char_one\Walk\Char_walk_right.xnb
+C:\Users\Gebruiker\Documents\GitHub\c#2\barArcadeGame\bin\Debug\net6.0\Content\Tiny Adventure Pack\Character\Char_one\Walk\Char_walk_up.xnb
+C:\Users\Gebruiker\Documents\GitHub\c#2\barArcadeGame\bin\Debug\net6.0\Content\Tiny Adventure Pack\Character\Char_two\Attack\1.xnb
+C:\Users\Gebruiker\Documents\GitHub\c#2\barArcadeGame\bin\Debug\net6.0\Content\Tiny Adventure Pack\Character\Char_two\Attack\2.xnb
+C:\Users\Gebruiker\Documents\GitHub\c#2\barArcadeGame\bin\Debug\net6.0\Content\Tiny Adventure Pack\Character\Char_two\Attack\3.xnb
+C:\Users\Gebruiker\Documents\GitHub\c#2\barArcadeGame\bin\Debug\net6.0\Content\Tiny Adventure Pack\Character\Char_two\Attack\4.xnb
+C:\Users\Gebruiker\Documents\GitHub\c#2\barArcadeGame\bin\Debug\net6.0\Content\Tiny Adventure Pack\Character\Char_two\Char2_4sides.xnb
+C:\Users\Gebruiker\Documents\GitHub\c#2\barArcadeGame\bin\Debug\net6.0\Content\Tiny Adventure Pack\Character\Char_two\Idle\Char2_idle_down.xnb
+C:\Users\Gebruiker\Documents\GitHub\c#2\barArcadeGame\bin\Debug\net6.0\Content\Tiny Adventure Pack\Character\Char_two\Idle\Char2_idle_left.xnb
+C:\Users\Gebruiker\Documents\GitHub\c#2\barArcadeGame\bin\Debug\net6.0\Content\Tiny Adventure Pack\Character\Char_two\Idle\Char2_idle_right.xnb
+C:\Users\Gebruiker\Documents\GitHub\c#2\barArcadeGame\bin\Debug\net6.0\Content\Tiny Adventure Pack\Character\Char_two\Idle\Char2_idle_up.xnb
+C:\Users\Gebruiker\Documents\GitHub\c#2\barArcadeGame\bin\Debug\net6.0\Content\Tiny Adventure Pack\Character\Char_two\Idle\playerSheetIdle.xnb
+C:\Users\Gebruiker\Documents\GitHub\c#2\barArcadeGame\bin\Debug\net6.0\Content\Tiny Adventure Pack\Character\Char_two\Walk\Char2_walk_down.xnb
+C:\Users\Gebruiker\Documents\GitHub\c#2\barArcadeGame\bin\Debug\net6.0\Content\Tiny Adventure Pack\Character\Char_two\Walk\Char2_walk_left.xnb
+C:\Users\Gebruiker\Documents\GitHub\c#2\barArcadeGame\bin\Debug\net6.0\Content\Tiny Adventure Pack\Character\Char_two\Walk\Char2_walk_right.xnb
+C:\Users\Gebruiker\Documents\GitHub\c#2\barArcadeGame\bin\Debug\net6.0\Content\Tiny Adventure Pack\Character\Char_two\Walk\Char2_walk_up.xnb
+C:\Users\Gebruiker\Documents\GitHub\c#2\barArcadeGame\bin\Debug\net6.0\Content\Tiny Adventure Pack\Character\Char_two\Walk\playerSheetWalk.xnb
+C:\Users\Gebruiker\Documents\GitHub\c#2\barArcadeGame\bin\Debug\net6.0\Content\Tiny Adventure Pack\env.xnb
+C:\Users\Gebruiker\Documents\GitHub\c#2\barArcadeGame\bin\Debug\net6.0\Content\Tiny Adventure Pack\Other\Blue_orb.xnb
+C:\Users\Gebruiker\Documents\GitHub\c#2\barArcadeGame\bin\Debug\net6.0\Content\Tiny Adventure Pack\Other\Coin.xnb
+C:\Users\Gebruiker\Documents\GitHub\c#2\barArcadeGame\bin\Debug\net6.0\Content\Tiny Adventure Pack\Other\Green_orb.xnb
+C:\Users\Gebruiker\Documents\GitHub\c#2\barArcadeGame\bin\Debug\net6.0\Content\Tiny Adventure Pack\Other\Heart.xnb
+C:\Users\Gebruiker\Documents\GitHub\c#2\barArcadeGame\bin\Debug\net6.0\Content\Tiny Adventure Pack\Other\Misc\Bush.xnb
+C:\Users\Gebruiker\Documents\GitHub\c#2\barArcadeGame\bin\Debug\net6.0\Content\Tiny Adventure Pack\Other\Misc\Chest.xnb
+C:\Users\Gebruiker\Documents\GitHub\c#2\barArcadeGame\bin\Debug\net6.0\Content\Tiny Adventure Pack\Other\Misc\Grass.xnb
+C:\Users\Gebruiker\Documents\GitHub\c#2\barArcadeGame\bin\Debug\net6.0\Content\Tiny Adventure Pack\Other\Misc\Rock.xnb
+C:\Users\Gebruiker\Documents\GitHub\c#2\barArcadeGame\bin\Debug\net6.0\Content\Tiny Adventure Pack\Other\Misc\Sign.xnb
+C:\Users\Gebruiker\Documents\GitHub\c#2\barArcadeGame\bin\Debug\net6.0\Content\Tiny Adventure Pack\Other\Misc\Tree\Tree.xnb
+C:\Users\Gebruiker\Documents\GitHub\c#2\barArcadeGame\bin\Debug\net6.0\Content\Tiny Adventure Pack\Other\Misc\Tree\Tree_top.xnb
+C:\Users\Gebruiker\Documents\GitHub\c#2\barArcadeGame\bin\Debug\net6.0\Content\Tiny Adventure Pack\Other\Misc\Tree\Tree_trunk.xnb
+C:\Users\Gebruiker\Documents\GitHub\c#2\barArcadeGame\bin\Debug\net6.0\Content\Tiny Adventure Pack\Other\Red_orb.xnb
+C:\Users\Gebruiker\Documents\GitHub\c#2\barArcadeGame\bin\Debug\net6.0\Content\Tiny Adventure Pack\Skeleton\Idle\Skel_idle_down.xnb
+C:\Users\Gebruiker\Documents\GitHub\c#2\barArcadeGame\bin\Debug\net6.0\Content\Tiny Adventure Pack\Skeleton\Idle\Skel_idle_left.xnb
+C:\Users\Gebruiker\Documents\GitHub\c#2\barArcadeGame\bin\Debug\net6.0\Content\Tiny Adventure Pack\Skeleton\Idle\Skel_idle_right.xnb
+C:\Users\Gebruiker\Documents\GitHub\c#2\barArcadeGame\bin\Debug\net6.0\Content\Tiny Adventure Pack\Skeleton\Idle\Skel_idle_up.xnb
+C:\Users\Gebruiker\Documents\GitHub\c#2\barArcadeGame\bin\Debug\net6.0\Content\Tiny Adventure Pack\Skeleton\Skel_4Sides.xnb
+C:\Users\Gebruiker\Documents\GitHub\c#2\barArcadeGame\bin\Debug\net6.0\Content\Tiny Adventure Pack\Skeleton\Walk\Skel_walk_down.xnb
+C:\Users\Gebruiker\Documents\GitHub\c#2\barArcadeGame\bin\Debug\net6.0\Content\Tiny Adventure Pack\Skeleton\Walk\Skel_walk_left.xnb
+C:\Users\Gebruiker\Documents\GitHub\c#2\barArcadeGame\bin\Debug\net6.0\Content\Tiny Adventure Pack\Skeleton\Walk\Skel_walk_right.xnb
+C:\Users\Gebruiker\Documents\GitHub\c#2\barArcadeGame\bin\Debug\net6.0\Content\Tiny Adventure Pack\Skeleton\Walk\Skel_walk_up.xnb
+C:\Users\Gebruiker\Documents\GitHub\c#2\barArcadeGame\bin\Debug\net6.0\barArcadeGame.exe
+C:\Users\Gebruiker\Documents\GitHub\c#2\barArcadeGame\bin\Debug\net6.0\barArcadeGame.deps.json
+C:\Users\Gebruiker\Documents\GitHub\c#2\barArcadeGame\bin\Debug\net6.0\barArcadeGame.runtimeconfig.json
+C:\Users\Gebruiker\Documents\GitHub\c#2\barArcadeGame\bin\Debug\net6.0\barArcadeGame.dll
+C:\Users\Gebruiker\Documents\GitHub\c#2\barArcadeGame\bin\Debug\net6.0\barArcadeGame.pdb
+C:\Users\Gebruiker\Documents\GitHub\c#2\barArcadeGame\bin\Debug\net6.0\Autofac.dll
+C:\Users\Gebruiker\Documents\GitHub\c#2\barArcadeGame\bin\Debug\net6.0\MonoGame.Extended.dll
+C:\Users\Gebruiker\Documents\GitHub\c#2\barArcadeGame\bin\Debug\net6.0\MonoGame.Extended.Graphics.dll
+C:\Users\Gebruiker\Documents\GitHub\c#2\barArcadeGame\bin\Debug\net6.0\MonoGame.Extended.Tiled.dll
+C:\Users\Gebruiker\Documents\GitHub\c#2\barArcadeGame\bin\Debug\net6.0\MonoGame.Framework.dll
+C:\Users\Gebruiker\Documents\GitHub\c#2\barArcadeGame\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\Gebruiker\Documents\GitHub\c#2\barArcadeGame\bin\Debug\net6.0\runtimes\linux-x64\native\libSDL2-2.0.so.0
+C:\Users\Gebruiker\Documents\GitHub\c#2\barArcadeGame\bin\Debug\net6.0\runtimes\linux-x64\native\libopenal.so.1
+C:\Users\Gebruiker\Documents\GitHub\c#2\barArcadeGame\bin\Debug\net6.0\runtimes\osx\native\libSDL2.dylib
+C:\Users\Gebruiker\Documents\GitHub\c#2\barArcadeGame\bin\Debug\net6.0\runtimes\osx\native\libopenal.1.dylib
+C:\Users\Gebruiker\Documents\GitHub\c#2\barArcadeGame\bin\Debug\net6.0\runtimes\win-x64\native\SDL2.dll
+C:\Users\Gebruiker\Documents\GitHub\c#2\barArcadeGame\bin\Debug\net6.0\runtimes\win-x64\native\soft_oal.dll
+C:\Users\Gebruiker\Documents\GitHub\c#2\barArcadeGame\bin\Debug\net6.0\runtimes\win-x86\native\SDL2.dll
+C:\Users\Gebruiker\Documents\GitHub\c#2\barArcadeGame\bin\Debug\net6.0\runtimes\win-x86\native\soft_oal.dll
+C:\Users\Gebruiker\Documents\GitHub\c#2\barArcadeGame\obj\Debug\net6.0\barArcadeGame.csproj.CopyComplete
+C:\Users\Gebruiker\Documents\GitHub\c#2\barArcadeGame\obj\Debug\net6.0\barArcadeGame.genruntimeconfig.cache
+C:\Users\Gebruiker\Documents\GitHub\c#2\barArcadeGame\obj\Debug\net6.0\ref\barArcadeGame.dll
+C:\Users\Gebruiker\Documents\GitHub\c#2\barArcadeGame\bin\Debug\net6.0\EntityFramework.SqlServer.dll
+C:\Users\Gebruiker\Documents\GitHub\c#2\barArcadeGame\bin\Debug\net6.0\EntityFramework.dll
+C:\Users\Gebruiker\Documents\GitHub\c#2\barArcadeGame\bin\Debug\net6.0\Microsoft.AspNetCore.Http.Abstractions.dll
+C:\Users\Gebruiker\Documents\GitHub\c#2\barArcadeGame\bin\Debug\net6.0\Microsoft.AspNetCore.Http.Extensions.dll
+C:\Users\Gebruiker\Documents\GitHub\c#2\barArcadeGame\bin\Debug\net6.0\Microsoft.AspNetCore.Http.Features.dll
+C:\Users\Gebruiker\Documents\GitHub\c#2\barArcadeGame\bin\Debug\net6.0\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\Gebruiker\Documents\GitHub\c#2\barArcadeGame\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+C:\Users\Gebruiker\Documents\GitHub\c#2\barArcadeGame\bin\Debug\net6.0\Microsoft.Net.Http.Headers.dll
+C:\Users\Gebruiker\Documents\GitHub\c#2\barArcadeGame\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Gebruiker\Documents\GitHub\c#2\barArcadeGame\bin\Debug\net6.0\System.Data.SQLite.dll
+C:\Users\Gebruiker\Documents\GitHub\c#2\barArcadeGame\bin\Debug\net6.0\System.CodeDom.dll
+C:\Users\Gebruiker\Documents\GitHub\c#2\barArcadeGame\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Gebruiker\Documents\GitHub\c#2\barArcadeGame\bin\Debug\net6.0\System.Data.SqlClient.dll
+C:\Users\Gebruiker\Documents\GitHub\c#2\barArcadeGame\bin\Debug\net6.0\System.Data.SQLite.EF6.dll
+C:\Users\Gebruiker\Documents\GitHub\c#2\barArcadeGame\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\Gebruiker\Documents\GitHub\c#2\barArcadeGame\bin\Debug\net6.0\System.Net.Http.Extensions.dll
+C:\Users\Gebruiker\Documents\GitHub\c#2\barArcadeGame\bin\Debug\net6.0\System.Net.Http.Formatting.dll
+C:\Users\Gebruiker\Documents\GitHub\c#2\barArcadeGame\bin\Debug\net6.0\System.Net.Http.Primitives.dll
+C:\Users\Gebruiker\Documents\GitHub\c#2\barArcadeGame\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Gebruiker\Documents\GitHub\c#2\barArcadeGame\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\Gebruiker\Documents\GitHub\c#2\barArcadeGame\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\Gebruiker\Documents\GitHub\c#2\barArcadeGame\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Gebruiker\Documents\GitHub\c#2\barArcadeGame\bin\Debug\net6.0\runtimes\win-arm64\native\sni.dll
+C:\Users\Gebruiker\Documents\GitHub\c#2\barArcadeGame\bin\Debug\net6.0\runtimes\win-x64\native\sni.dll
+C:\Users\Gebruiker\Documents\GitHub\c#2\barArcadeGame\bin\Debug\net6.0\runtimes\win-x86\native\sni.dll
+C:\Users\Gebruiker\Documents\GitHub\c#2\barArcadeGame\bin\Debug\net6.0\runtimes\linux-x64\native\SQLite.Interop.dll
+C:\Users\Gebruiker\Documents\GitHub\c#2\barArcadeGame\bin\Debug\net6.0\runtimes\osx-x64\native\SQLite.Interop.dll
+C:\Users\Gebruiker\Documents\GitHub\c#2\barArcadeGame\bin\Debug\net6.0\runtimes\win-x64\native\SQLite.Interop.dll
+C:\Users\Gebruiker\Documents\GitHub\c#2\barArcadeGame\bin\Debug\net6.0\runtimes\win-x86\native\SQLite.Interop.dll
+C:\Users\Gebruiker\Documents\GitHub\c#2\barArcadeGame\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Gebruiker\Documents\GitHub\c#2\barArcadeGame\bin\Debug\net6.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Gebruiker\Documents\GitHub\c#2\barArcadeGame\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Gebruiker\Documents\GitHub\c#2\barArcadeGame\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Gebruiker\Documents\GitHub\c#2\barArcadeGame\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Gebruiker\Documents\GitHub\c#2\barArcadeGame\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\g3k01\OneDrive\Desktop\LastManStanding\barArcadeGame\obj\Debug\net6.0\barArcadeGame.csproj.AssemblyReference.cache
+C:\Users\g3k01\OneDrive\Desktop\LastManStanding\barArcadeGame\obj\Debug\net6.0\barArcadeGame.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\g3k01\OneDrive\Desktop\LastManStanding\barArcadeGame\obj\Debug\net6.0\barArcadeGame.AssemblyInfoInputs.cache
+C:\Users\g3k01\OneDrive\Desktop\LastManStanding\barArcadeGame\obj\Debug\net6.0\barArcadeGame.AssemblyInfo.cs
+C:\Users\g3k01\OneDrive\Desktop\LastManStanding\barArcadeGame\obj\Debug\net6.0\barArcadeGame.csproj.CoreCompileInputs.cache
+C:\Users\g3k01\OneDrive\Desktop\LastManStanding\barArcadeGame\bin\Debug\net6.0\Content\arcade\arcadeRoom.tmx
+C:\Users\g3k01\OneDrive\Desktop\LastManStanding\barArcadeGame\bin\Debug\net6.0\Content\arcade\items.xnb
+C:\Users\g3k01\OneDrive\Desktop\LastManStanding\barArcadeGame\bin\Debug\net6.0\Content\arcade\mapArcade.tmx
+C:\Users\g3k01\OneDrive\Desktop\LastManStanding\barArcadeGame\bin\Debug\net6.0\Content\barMap\kitchen.xnb
+C:\Users\g3k01\OneDrive\Desktop\LastManStanding\barArcadeGame\bin\Debug\net6.0\Content\barMap\mapBar.tmx
+C:\Users\g3k01\OneDrive\Desktop\LastManStanding\barArcadeGame\bin\Debug\net6.0\Content\Font\defaultFont.xnb
+C:\Users\g3k01\OneDrive\Desktop\LastManStanding\barArcadeGame\bin\Debug\net6.0\Content\picture\arcadeMachine.xnb
+C:\Users\g3k01\OneDrive\Desktop\LastManStanding\barArcadeGame\bin\Debug\net6.0\Content\picture\checked.xnb
+C:\Users\g3k01\OneDrive\Desktop\LastManStanding\barArcadeGame\bin\Debug\net6.0\Content\picture\coin.xnb
+C:\Users\g3k01\OneDrive\Desktop\LastManStanding\barArcadeGame\bin\Debug\net6.0\Content\picture\door.xnb
+C:\Users\g3k01\OneDrive\Desktop\LastManStanding\barArcadeGame\bin\Debug\net6.0\Content\picture\exit.xnb
+C:\Users\g3k01\OneDrive\Desktop\LastManStanding\barArcadeGame\bin\Debug\net6.0\Content\picture\hero.xnb
+C:\Users\g3k01\OneDrive\Desktop\LastManStanding\barArcadeGame\bin\Debug\net6.0\Content\picture\music.xnb
+C:\Users\g3k01\OneDrive\Desktop\LastManStanding\barArcadeGame\bin\Debug\net6.0\Content\picture\next.xnb
+C:\Users\g3k01\OneDrive\Desktop\LastManStanding\barArcadeGame\bin\Debug\net6.0\Content\picture\ninja.xnb
+C:\Users\g3k01\OneDrive\Desktop\LastManStanding\barArcadeGame\bin\Debug\net6.0\Content\picture\sounds.xnb
+C:\Users\g3k01\OneDrive\Desktop\LastManStanding\barArcadeGame\bin\Debug\net6.0\Content\picture\unchecked.xnb
+C:\Users\g3k01\OneDrive\Desktop\LastManStanding\barArcadeGame\bin\Debug\net6.0\Content\picture\win.xnb
+C:\Users\g3k01\OneDrive\Desktop\LastManStanding\barArcadeGame\bin\Debug\net6.0\Content\Sound\flip.xnb
+C:\Users\g3k01\OneDrive\Desktop\LastManStanding\barArcadeGame\bin\Debug\net6.0\Content\Sound\music.ogg
+C:\Users\g3k01\OneDrive\Desktop\LastManStanding\barArcadeGame\bin\Debug\net6.0\Content\Sound\music.xnb
+C:\Users\g3k01\OneDrive\Desktop\LastManStanding\barArcadeGame\bin\Debug\net6.0\Content\Sound\tear.xnb
+C:\Users\g3k01\OneDrive\Desktop\LastManStanding\barArcadeGame\bin\Debug\net6.0\Content\Sound\victory.ogg
+C:\Users\g3k01\OneDrive\Desktop\LastManStanding\barArcadeGame\bin\Debug\net6.0\Content\Sound\victory.xnb
+C:\Users\g3k01\OneDrive\Desktop\LastManStanding\barArcadeGame\bin\Debug\net6.0\Content\Spaceship 3\Spaceship 3.tmx
+C:\Users\g3k01\OneDrive\Desktop\LastManStanding\barArcadeGame\bin\Debug\net6.0\Content\Spaceship 3\Spaceship 3.xnb
+C:\Users\g3k01\OneDrive\Desktop\LastManStanding\barArcadeGame\bin\Debug\net6.0\Content\testTile\55.xnb
+C:\Users\g3k01\OneDrive\Desktop\LastManStanding\barArcadeGame\bin\Debug\net6.0\Content\testTile\bamboo-doorv2.xnb
+C:\Users\g3k01\OneDrive\Desktop\LastManStanding\barArcadeGame\bin\Debug\net6.0\Content\testTile\testTile.tmx
+C:\Users\g3k01\OneDrive\Desktop\LastManStanding\barArcadeGame\bin\Debug\net6.0\Content\testTile\tileset.xnb
+C:\Users\g3k01\OneDrive\Desktop\LastManStanding\barArcadeGame\bin\Debug\net6.0\Content\Tiny Adventure Pack\Character\Char_one\Attack\Char_atk_down.xnb
+C:\Users\g3k01\OneDrive\Desktop\LastManStanding\barArcadeGame\bin\Debug\net6.0\Content\Tiny Adventure Pack\Character\Char_one\Attack\Char_atk_left.xnb
+C:\Users\g3k01\OneDrive\Desktop\LastManStanding\barArcadeGame\bin\Debug\net6.0\Content\Tiny Adventure Pack\Character\Char_one\Attack\Char_atk_right.xnb
+C:\Users\g3k01\OneDrive\Desktop\LastManStanding\barArcadeGame\bin\Debug\net6.0\Content\Tiny Adventure Pack\Character\Char_one\Attack\Char_atk_up.xnb
+C:\Users\g3k01\OneDrive\Desktop\LastManStanding\barArcadeGame\bin\Debug\net6.0\Content\Tiny Adventure Pack\Character\Char_one\Char_4_sides.xnb
+C:\Users\g3k01\OneDrive\Desktop\LastManStanding\barArcadeGame\bin\Debug\net6.0\Content\Tiny Adventure Pack\Character\Char_one\Idle\Char_idle_down.xnb
+C:\Users\g3k01\OneDrive\Desktop\LastManStanding\barArcadeGame\bin\Debug\net6.0\Content\Tiny Adventure Pack\Character\Char_one\Idle\Char_idle_left.xnb
+C:\Users\g3k01\OneDrive\Desktop\LastManStanding\barArcadeGame\bin\Debug\net6.0\Content\Tiny Adventure Pack\Character\Char_one\Idle\Char_idle_right.xnb
+C:\Users\g3k01\OneDrive\Desktop\LastManStanding\barArcadeGame\bin\Debug\net6.0\Content\Tiny Adventure Pack\Character\Char_one\Idle\Char_idle_up.xnb
+C:\Users\g3k01\OneDrive\Desktop\LastManStanding\barArcadeGame\bin\Debug\net6.0\Content\Tiny Adventure Pack\Character\Char_one\Walk\Char_walk_down.xnb
+C:\Users\g3k01\OneDrive\Desktop\LastManStanding\barArcadeGame\bin\Debug\net6.0\Content\Tiny Adventure Pack\Character\Char_one\Walk\Char_walk_left.xnb
+C:\Users\g3k01\OneDrive\Desktop\LastManStanding\barArcadeGame\bin\Debug\net6.0\Content\Tiny Adventure Pack\Character\Char_one\Walk\Char_walk_right.xnb
+C:\Users\g3k01\OneDrive\Desktop\LastManStanding\barArcadeGame\bin\Debug\net6.0\Content\Tiny Adventure Pack\Character\Char_one\Walk\Char_walk_up.xnb
+C:\Users\g3k01\OneDrive\Desktop\LastManStanding\barArcadeGame\bin\Debug\net6.0\Content\Tiny Adventure Pack\Character\Char_two\Attack\1.xnb
+C:\Users\g3k01\OneDrive\Desktop\LastManStanding\barArcadeGame\bin\Debug\net6.0\Content\Tiny Adventure Pack\Character\Char_two\Attack\2.xnb
+C:\Users\g3k01\OneDrive\Desktop\LastManStanding\barArcadeGame\bin\Debug\net6.0\Content\Tiny Adventure Pack\Character\Char_two\Attack\3.xnb
+C:\Users\g3k01\OneDrive\Desktop\LastManStanding\barArcadeGame\bin\Debug\net6.0\Content\Tiny Adventure Pack\Character\Char_two\Attack\4.xnb
+C:\Users\g3k01\OneDrive\Desktop\LastManStanding\barArcadeGame\bin\Debug\net6.0\Content\Tiny Adventure Pack\Character\Char_two\Char2_4sides.xnb
+C:\Users\g3k01\OneDrive\Desktop\LastManStanding\barArcadeGame\bin\Debug\net6.0\Content\Tiny Adventure Pack\Character\Char_two\Idle\Char2_idle_down.xnb
+C:\Users\g3k01\OneDrive\Desktop\LastManStanding\barArcadeGame\bin\Debug\net6.0\Content\Tiny Adventure Pack\Character\Char_two\Idle\Char2_idle_left.xnb
+C:\Users\g3k01\OneDrive\Desktop\LastManStanding\barArcadeGame\bin\Debug\net6.0\Content\Tiny Adventure Pack\Character\Char_two\Idle\Char2_idle_right.xnb
+C:\Users\g3k01\OneDrive\Desktop\LastManStanding\barArcadeGame\bin\Debug\net6.0\Content\Tiny Adventure Pack\Character\Char_two\Idle\Char2_idle_up.xnb
+C:\Users\g3k01\OneDrive\Desktop\LastManStanding\barArcadeGame\bin\Debug\net6.0\Content\Tiny Adventure Pack\Character\Char_two\Idle\playerSheetIdle.sf
+C:\Users\g3k01\OneDrive\Desktop\LastManStanding\barArcadeGame\bin\Debug\net6.0\Content\Tiny Adventure Pack\Character\Char_two\Idle\playerSheetIdle.xnb
+C:\Users\g3k01\OneDrive\Desktop\LastManStanding\barArcadeGame\bin\Debug\net6.0\Content\Tiny Adventure Pack\Character\Char_two\Walk\Char2_walk_down.xnb
+C:\Users\g3k01\OneDrive\Desktop\LastManStanding\barArcadeGame\bin\Debug\net6.0\Content\Tiny Adventure Pack\Character\Char_two\Walk\Char2_walk_left.xnb
+C:\Users\g3k01\OneDrive\Desktop\LastManStanding\barArcadeGame\bin\Debug\net6.0\Content\Tiny Adventure Pack\Character\Char_two\Walk\Char2_walk_right.xnb
+C:\Users\g3k01\OneDrive\Desktop\LastManStanding\barArcadeGame\bin\Debug\net6.0\Content\Tiny Adventure Pack\Character\Char_two\Walk\Char2_walk_up.xnb
+C:\Users\g3k01\OneDrive\Desktop\LastManStanding\barArcadeGame\bin\Debug\net6.0\Content\Tiny Adventure Pack\Character\Char_two\Walk\playerSheetWalk.sf
+C:\Users\g3k01\OneDrive\Desktop\LastManStanding\barArcadeGame\bin\Debug\net6.0\Content\Tiny Adventure Pack\Character\Char_two\Walk\playerSheetWalk.xnb
+C:\Users\g3k01\OneDrive\Desktop\LastManStanding\barArcadeGame\bin\Debug\net6.0\Content\Tiny Adventure Pack\env.xnb
+C:\Users\g3k01\OneDrive\Desktop\LastManStanding\barArcadeGame\bin\Debug\net6.0\Content\Tiny Adventure Pack\Other\Blue_orb.xnb
+C:\Users\g3k01\OneDrive\Desktop\LastManStanding\barArcadeGame\bin\Debug\net6.0\Content\Tiny Adventure Pack\Other\Coin.xnb
+C:\Users\g3k01\OneDrive\Desktop\LastManStanding\barArcadeGame\bin\Debug\net6.0\Content\Tiny Adventure Pack\Other\Green_orb.xnb
+C:\Users\g3k01\OneDrive\Desktop\LastManStanding\barArcadeGame\bin\Debug\net6.0\Content\Tiny Adventure Pack\Other\Heart.xnb
+C:\Users\g3k01\OneDrive\Desktop\LastManStanding\barArcadeGame\bin\Debug\net6.0\Content\Tiny Adventure Pack\Other\Misc\Bush.xnb
+C:\Users\g3k01\OneDrive\Desktop\LastManStanding\barArcadeGame\bin\Debug\net6.0\Content\Tiny Adventure Pack\Other\Misc\Chest.xnb
+C:\Users\g3k01\OneDrive\Desktop\LastManStanding\barArcadeGame\bin\Debug\net6.0\Content\Tiny Adventure Pack\Other\Misc\Grass.xnb
+C:\Users\g3k01\OneDrive\Desktop\LastManStanding\barArcadeGame\bin\Debug\net6.0\Content\Tiny Adventure Pack\Other\Misc\Rock.xnb
+C:\Users\g3k01\OneDrive\Desktop\LastManStanding\barArcadeGame\bin\Debug\net6.0\Content\Tiny Adventure Pack\Other\Misc\Sign.xnb
+C:\Users\g3k01\OneDrive\Desktop\LastManStanding\barArcadeGame\bin\Debug\net6.0\Content\Tiny Adventure Pack\Other\Misc\Tree\Tree.xnb
+C:\Users\g3k01\OneDrive\Desktop\LastManStanding\barArcadeGame\bin\Debug\net6.0\Content\Tiny Adventure Pack\Other\Misc\Tree\Tree_top.xnb
+C:\Users\g3k01\OneDrive\Desktop\LastManStanding\barArcadeGame\bin\Debug\net6.0\Content\Tiny Adventure Pack\Other\Misc\Tree\Tree_trunk.xnb
+C:\Users\g3k01\OneDrive\Desktop\LastManStanding\barArcadeGame\bin\Debug\net6.0\Content\Tiny Adventure Pack\Other\Red_orb.xnb
+C:\Users\g3k01\OneDrive\Desktop\LastManStanding\barArcadeGame\bin\Debug\net6.0\Content\Tiny Adventure Pack\Skeleton\Idle\Skel_idle_down.xnb
+C:\Users\g3k01\OneDrive\Desktop\LastManStanding\barArcadeGame\bin\Debug\net6.0\Content\Tiny Adventure Pack\Skeleton\Idle\Skel_idle_left.xnb
+C:\Users\g3k01\OneDrive\Desktop\LastManStanding\barArcadeGame\bin\Debug\net6.0\Content\Tiny Adventure Pack\Skeleton\Idle\Skel_idle_right.xnb
+C:\Users\g3k01\OneDrive\Desktop\LastManStanding\barArcadeGame\bin\Debug\net6.0\Content\Tiny Adventure Pack\Skeleton\Idle\Skel_idle_up.xnb
+C:\Users\g3k01\OneDrive\Desktop\LastManStanding\barArcadeGame\bin\Debug\net6.0\Content\Tiny Adventure Pack\Skeleton\Skel_4Sides.xnb
+C:\Users\g3k01\OneDrive\Desktop\LastManStanding\barArcadeGame\bin\Debug\net6.0\Content\Tiny Adventure Pack\Skeleton\Walk\Skel_walk_down.xnb
+C:\Users\g3k01\OneDrive\Desktop\LastManStanding\barArcadeGame\bin\Debug\net6.0\Content\Tiny Adventure Pack\Skeleton\Walk\Skel_walk_left.xnb
+C:\Users\g3k01\OneDrive\Desktop\LastManStanding\barArcadeGame\bin\Debug\net6.0\Content\Tiny Adventure Pack\Skeleton\Walk\Skel_walk_right.xnb
+C:\Users\g3k01\OneDrive\Desktop\LastManStanding\barArcadeGame\bin\Debug\net6.0\Content\Tiny Adventure Pack\Skeleton\Walk\Skel_walk_up.xnb
+C:\Users\g3k01\OneDrive\Desktop\LastManStanding\barArcadeGame\bin\Debug\net6.0\Content\Font\defaultFont.spritefont
+C:\Users\g3k01\OneDrive\Desktop\LastManStanding\barArcadeGame\bin\Debug\net6.0\barArcadeGame.exe
+C:\Users\g3k01\OneDrive\Desktop\LastManStanding\barArcadeGame\bin\Debug\net6.0\barArcadeGame.deps.json
+C:\Users\g3k01\OneDrive\Desktop\LastManStanding\barArcadeGame\bin\Debug\net6.0\barArcadeGame.runtimeconfig.json
+C:\Users\g3k01\OneDrive\Desktop\LastManStanding\barArcadeGame\bin\Debug\net6.0\barArcadeGame.dll
+C:\Users\g3k01\OneDrive\Desktop\LastManStanding\barArcadeGame\bin\Debug\net6.0\barArcadeGame.pdb
+C:\Users\g3k01\OneDrive\Desktop\LastManStanding\barArcadeGame\bin\Debug\net6.0\Autofac.dll
+C:\Users\g3k01\OneDrive\Desktop\LastManStanding\barArcadeGame\bin\Debug\net6.0\EntityFramework.SqlServer.dll
+C:\Users\g3k01\OneDrive\Desktop\LastManStanding\barArcadeGame\bin\Debug\net6.0\EntityFramework.dll
+C:\Users\g3k01\OneDrive\Desktop\LastManStanding\barArcadeGame\bin\Debug\net6.0\Microsoft.AspNetCore.Http.Abstractions.dll
+C:\Users\g3k01\OneDrive\Desktop\LastManStanding\barArcadeGame\bin\Debug\net6.0\Microsoft.AspNetCore.Http.Extensions.dll
+C:\Users\g3k01\OneDrive\Desktop\LastManStanding\barArcadeGame\bin\Debug\net6.0\Microsoft.AspNetCore.Http.Features.dll
+C:\Users\g3k01\OneDrive\Desktop\LastManStanding\barArcadeGame\bin\Debug\net6.0\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\g3k01\OneDrive\Desktop\LastManStanding\barArcadeGame\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+C:\Users\g3k01\OneDrive\Desktop\LastManStanding\barArcadeGame\bin\Debug\net6.0\Microsoft.Net.Http.Headers.dll
+C:\Users\g3k01\OneDrive\Desktop\LastManStanding\barArcadeGame\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\g3k01\OneDrive\Desktop\LastManStanding\barArcadeGame\bin\Debug\net6.0\MonoGame.Extended.dll
+C:\Users\g3k01\OneDrive\Desktop\LastManStanding\barArcadeGame\bin\Debug\net6.0\MonoGame.Extended.Graphics.dll
+C:\Users\g3k01\OneDrive\Desktop\LastManStanding\barArcadeGame\bin\Debug\net6.0\MonoGame.Extended.Tiled.dll
+C:\Users\g3k01\OneDrive\Desktop\LastManStanding\barArcadeGame\bin\Debug\net6.0\MonoGame.Framework.dll
+C:\Users\g3k01\OneDrive\Desktop\LastManStanding\barArcadeGame\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\g3k01\OneDrive\Desktop\LastManStanding\barArcadeGame\bin\Debug\net6.0\System.Data.SQLite.dll
+C:\Users\g3k01\OneDrive\Desktop\LastManStanding\barArcadeGame\bin\Debug\net6.0\System.CodeDom.dll
+C:\Users\g3k01\OneDrive\Desktop\LastManStanding\barArcadeGame\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\g3k01\OneDrive\Desktop\LastManStanding\barArcadeGame\bin\Debug\net6.0\System.Data.SqlClient.dll
+C:\Users\g3k01\OneDrive\Desktop\LastManStanding\barArcadeGame\bin\Debug\net6.0\System.Data.SQLite.EF6.dll
+C:\Users\g3k01\OneDrive\Desktop\LastManStanding\barArcadeGame\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\g3k01\OneDrive\Desktop\LastManStanding\barArcadeGame\bin\Debug\net6.0\System.Net.Http.Extensions.dll
+C:\Users\g3k01\OneDrive\Desktop\LastManStanding\barArcadeGame\bin\Debug\net6.0\System.Net.Http.Formatting.dll
+C:\Users\g3k01\OneDrive\Desktop\LastManStanding\barArcadeGame\bin\Debug\net6.0\System.Net.Http.Primitives.dll
+C:\Users\g3k01\OneDrive\Desktop\LastManStanding\barArcadeGame\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\g3k01\OneDrive\Desktop\LastManStanding\barArcadeGame\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\g3k01\OneDrive\Desktop\LastManStanding\barArcadeGame\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\g3k01\OneDrive\Desktop\LastManStanding\barArcadeGame\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\g3k01\OneDrive\Desktop\LastManStanding\barArcadeGame\bin\Debug\net6.0\runtimes\linux-x64\native\libSDL2-2.0.so.0
+C:\Users\g3k01\OneDrive\Desktop\LastManStanding\barArcadeGame\bin\Debug\net6.0\runtimes\linux-x64\native\libopenal.so.1
+C:\Users\g3k01\OneDrive\Desktop\LastManStanding\barArcadeGame\bin\Debug\net6.0\runtimes\osx\native\libSDL2.dylib
+C:\Users\g3k01\OneDrive\Desktop\LastManStanding\barArcadeGame\bin\Debug\net6.0\runtimes\osx\native\libopenal.1.dylib
+C:\Users\g3k01\OneDrive\Desktop\LastManStanding\barArcadeGame\bin\Debug\net6.0\runtimes\win-x64\native\SDL2.dll
+C:\Users\g3k01\OneDrive\Desktop\LastManStanding\barArcadeGame\bin\Debug\net6.0\runtimes\win-x64\native\soft_oal.dll
+C:\Users\g3k01\OneDrive\Desktop\LastManStanding\barArcadeGame\bin\Debug\net6.0\runtimes\win-x86\native\SDL2.dll
+C:\Users\g3k01\OneDrive\Desktop\LastManStanding\barArcadeGame\bin\Debug\net6.0\runtimes\win-x86\native\soft_oal.dll
+C:\Users\g3k01\OneDrive\Desktop\LastManStanding\barArcadeGame\bin\Debug\net6.0\runtimes\win-arm64\native\sni.dll
+C:\Users\g3k01\OneDrive\Desktop\LastManStanding\barArcadeGame\bin\Debug\net6.0\runtimes\win-x64\native\sni.dll
+C:\Users\g3k01\OneDrive\Desktop\LastManStanding\barArcadeGame\bin\Debug\net6.0\runtimes\win-x86\native\sni.dll
+C:\Users\g3k01\OneDrive\Desktop\LastManStanding\barArcadeGame\bin\Debug\net6.0\runtimes\linux-x64\native\SQLite.Interop.dll
+C:\Users\g3k01\OneDrive\Desktop\LastManStanding\barArcadeGame\bin\Debug\net6.0\runtimes\osx-x64\native\SQLite.Interop.dll
+C:\Users\g3k01\OneDrive\Desktop\LastManStanding\barArcadeGame\bin\Debug\net6.0\runtimes\win-x64\native\SQLite.Interop.dll
+C:\Users\g3k01\OneDrive\Desktop\LastManStanding\barArcadeGame\bin\Debug\net6.0\runtimes\win-x86\native\SQLite.Interop.dll
+C:\Users\g3k01\OneDrive\Desktop\LastManStanding\barArcadeGame\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\g3k01\OneDrive\Desktop\LastManStanding\barArcadeGame\bin\Debug\net6.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\g3k01\OneDrive\Desktop\LastManStanding\barArcadeGame\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\g3k01\OneDrive\Desktop\LastManStanding\barArcadeGame\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\g3k01\OneDrive\Desktop\LastManStanding\barArcadeGame\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\g3k01\OneDrive\Desktop\LastManStanding\barArcadeGame\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\g3k01\OneDrive\Desktop\LastManStanding\barArcadeGame\obj\Debug\net6.0\barArcad.75AC9963.Up2Date
+C:\Users\g3k01\OneDrive\Desktop\LastManStanding\barArcadeGame\obj\Debug\net6.0\barArcadeGame.dll
+C:\Users\g3k01\OneDrive\Desktop\LastManStanding\barArcadeGame\obj\Debug\net6.0\refint\barArcadeGame.dll
+C:\Users\g3k01\OneDrive\Desktop\LastManStanding\barArcadeGame\obj\Debug\net6.0\barArcadeGame.pdb
+C:\Users\g3k01\OneDrive\Desktop\LastManStanding\barArcadeGame\obj\Debug\net6.0\barArcadeGame.genruntimeconfig.cache
+C:\Users\g3k01\OneDrive\Desktop\LastManStanding\barArcadeGame\obj\Debug\net6.0\ref\barArcadeGame.dll
+C:\Users\g3k01\OneDrive\Desktop\BarArcade\barArcadeGame\obj\Debug\net6.0\barArcadeGame.csproj.AssemblyReference.cache
+C:\Users\g3k01\OneDrive\Desktop\BarArcade\barArcadeGame\obj\Debug\net6.0\barArcadeGame.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\g3k01\OneDrive\Desktop\BarArcade\barArcadeGame\obj\Debug\net6.0\barArcadeGame.AssemblyInfoInputs.cache
+C:\Users\g3k01\OneDrive\Desktop\BarArcade\barArcadeGame\obj\Debug\net6.0\barArcadeGame.AssemblyInfo.cs
+C:\Users\g3k01\OneDrive\Desktop\BarArcade\barArcadeGame\obj\Debug\net6.0\barArcadeGame.csproj.CoreCompileInputs.cache
+C:\Users\g3k01\OneDrive\Desktop\BarArcade\barArcadeGame\bin\Debug\net6.0\Content\arcade\arcadeRoom.tmx
+C:\Users\g3k01\OneDrive\Desktop\BarArcade\barArcadeGame\bin\Debug\net6.0\Content\arcade\items.xnb
+C:\Users\g3k01\OneDrive\Desktop\BarArcade\barArcadeGame\bin\Debug\net6.0\Content\arcade\mapArcade.tmx
+C:\Users\g3k01\OneDrive\Desktop\BarArcade\barArcadeGame\bin\Debug\net6.0\Content\barMap\kitchen.xnb
+C:\Users\g3k01\OneDrive\Desktop\BarArcade\barArcadeGame\bin\Debug\net6.0\Content\barMap\mapBar.tmx
+C:\Users\g3k01\OneDrive\Desktop\BarArcade\barArcadeGame\bin\Debug\net6.0\Content\Font\defaultFont.xnb
+C:\Users\g3k01\OneDrive\Desktop\BarArcade\barArcadeGame\bin\Debug\net6.0\Content\picture\arcadeMachine.xnb
+C:\Users\g3k01\OneDrive\Desktop\BarArcade\barArcadeGame\bin\Debug\net6.0\Content\picture\checked.xnb
+C:\Users\g3k01\OneDrive\Desktop\BarArcade\barArcadeGame\bin\Debug\net6.0\Content\picture\coin.xnb
+C:\Users\g3k01\OneDrive\Desktop\BarArcade\barArcadeGame\bin\Debug\net6.0\Content\picture\door.xnb
+C:\Users\g3k01\OneDrive\Desktop\BarArcade\barArcadeGame\bin\Debug\net6.0\Content\picture\exit.xnb
+C:\Users\g3k01\OneDrive\Desktop\BarArcade\barArcadeGame\bin\Debug\net6.0\Content\picture\hero.xnb
+C:\Users\g3k01\OneDrive\Desktop\BarArcade\barArcadeGame\bin\Debug\net6.0\Content\picture\music.xnb
+C:\Users\g3k01\OneDrive\Desktop\BarArcade\barArcadeGame\bin\Debug\net6.0\Content\picture\next.xnb
+C:\Users\g3k01\OneDrive\Desktop\BarArcade\barArcadeGame\bin\Debug\net6.0\Content\picture\ninja.xnb
+C:\Users\g3k01\OneDrive\Desktop\BarArcade\barArcadeGame\bin\Debug\net6.0\Content\picture\sounds.xnb
+C:\Users\g3k01\OneDrive\Desktop\BarArcade\barArcadeGame\bin\Debug\net6.0\Content\picture\unchecked.xnb
+C:\Users\g3k01\OneDrive\Desktop\BarArcade\barArcadeGame\bin\Debug\net6.0\Content\picture\win.xnb
+C:\Users\g3k01\OneDrive\Desktop\BarArcade\barArcadeGame\bin\Debug\net6.0\Content\Sound\flip.xnb
+C:\Users\g3k01\OneDrive\Desktop\BarArcade\barArcadeGame\bin\Debug\net6.0\Content\Sound\music.ogg
+C:\Users\g3k01\OneDrive\Desktop\BarArcade\barArcadeGame\bin\Debug\net6.0\Content\Sound\music.xnb
+C:\Users\g3k01\OneDrive\Desktop\BarArcade\barArcadeGame\bin\Debug\net6.0\Content\Sound\tear.xnb
+C:\Users\g3k01\OneDrive\Desktop\BarArcade\barArcadeGame\bin\Debug\net6.0\Content\Sound\victory.ogg
+C:\Users\g3k01\OneDrive\Desktop\BarArcade\barArcadeGame\bin\Debug\net6.0\Content\Sound\victory.xnb
+C:\Users\g3k01\OneDrive\Desktop\BarArcade\barArcadeGame\bin\Debug\net6.0\Content\Spaceship 3\Spaceship 3.tmx
+C:\Users\g3k01\OneDrive\Desktop\BarArcade\barArcadeGame\bin\Debug\net6.0\Content\Spaceship 3\Spaceship 3.xnb
+C:\Users\g3k01\OneDrive\Desktop\BarArcade\barArcadeGame\bin\Debug\net6.0\Content\testTile\testTile.tmx
+C:\Users\g3k01\OneDrive\Desktop\BarArcade\barArcadeGame\bin\Debug\net6.0\Content\Tiny Adventure Pack\Character\Char_two\Attack\1.xnb
+C:\Users\g3k01\OneDrive\Desktop\BarArcade\barArcadeGame\bin\Debug\net6.0\Content\Tiny Adventure Pack\Character\Char_two\Attack\2.xnb
+C:\Users\g3k01\OneDrive\Desktop\BarArcade\barArcadeGame\bin\Debug\net6.0\Content\Tiny Adventure Pack\Character\Char_two\Attack\3.xnb
+C:\Users\g3k01\OneDrive\Desktop\BarArcade\barArcadeGame\bin\Debug\net6.0\Content\Tiny Adventure Pack\Character\Char_two\Attack\4.xnb
+C:\Users\g3k01\OneDrive\Desktop\BarArcade\barArcadeGame\bin\Debug\net6.0\Content\Tiny Adventure Pack\Character\Char_two\Char2_4sides.xnb
+C:\Users\g3k01\OneDrive\Desktop\BarArcade\barArcadeGame\bin\Debug\net6.0\Content\Tiny Adventure Pack\Character\Char_two\Idle\Char2_idle_down.xnb
+C:\Users\g3k01\OneDrive\Desktop\BarArcade\barArcadeGame\bin\Debug\net6.0\Content\Tiny Adventure Pack\Character\Char_two\Idle\Char2_idle_left.xnb
+C:\Users\g3k01\OneDrive\Desktop\BarArcade\barArcadeGame\bin\Debug\net6.0\Content\Tiny Adventure Pack\Character\Char_two\Idle\Char2_idle_right.xnb
+C:\Users\g3k01\OneDrive\Desktop\BarArcade\barArcadeGame\bin\Debug\net6.0\Content\Tiny Adventure Pack\Character\Char_two\Idle\Char2_idle_up.xnb
+C:\Users\g3k01\OneDrive\Desktop\BarArcade\barArcadeGame\bin\Debug\net6.0\Content\Tiny Adventure Pack\Character\Char_two\Idle\playerSheetIdle.sf
+C:\Users\g3k01\OneDrive\Desktop\BarArcade\barArcadeGame\bin\Debug\net6.0\Content\Tiny Adventure Pack\Character\Char_two\Idle\playerSheetIdle.xnb
+C:\Users\g3k01\OneDrive\Desktop\BarArcade\barArcadeGame\bin\Debug\net6.0\Content\Tiny Adventure Pack\Character\Char_two\Walk\Char2_walk_down.xnb
+C:\Users\g3k01\OneDrive\Desktop\BarArcade\barArcadeGame\bin\Debug\net6.0\Content\Tiny Adventure Pack\Character\Char_two\Walk\Char2_walk_left.xnb
+C:\Users\g3k01\OneDrive\Desktop\BarArcade\barArcadeGame\bin\Debug\net6.0\Content\Tiny Adventure Pack\Character\Char_two\Walk\Char2_walk_right.xnb
+C:\Users\g3k01\OneDrive\Desktop\BarArcade\barArcadeGame\bin\Debug\net6.0\Content\Tiny Adventure Pack\Character\Char_two\Walk\Char2_walk_up.xnb
+C:\Users\g3k01\OneDrive\Desktop\BarArcade\barArcadeGame\bin\Debug\net6.0\Content\Tiny Adventure Pack\Character\Char_two\Walk\playerSheetWalk.sf
+C:\Users\g3k01\OneDrive\Desktop\BarArcade\barArcadeGame\bin\Debug\net6.0\Content\Tiny Adventure Pack\Character\Char_two\Walk\playerSheetWalk.xnb
+C:\Users\g3k01\OneDrive\Desktop\BarArcade\barArcadeGame\bin\Debug\net6.0\Content\Tiny Adventure Pack\env.xnb
+C:\Users\g3k01\OneDrive\Desktop\BarArcade\barArcadeGame\bin\Debug\net6.0\Content\Tiny Adventure Pack\Other\Blue_orb.xnb
+C:\Users\g3k01\OneDrive\Desktop\BarArcade\barArcadeGame\bin\Debug\net6.0\Content\Tiny Adventure Pack\Other\Coin.xnb
+C:\Users\g3k01\OneDrive\Desktop\BarArcade\barArcadeGame\bin\Debug\net6.0\Content\Tiny Adventure Pack\Other\Green_orb.xnb
+C:\Users\g3k01\OneDrive\Desktop\BarArcade\barArcadeGame\bin\Debug\net6.0\Content\Tiny Adventure Pack\Other\Heart.xnb
+C:\Users\g3k01\OneDrive\Desktop\BarArcade\barArcadeGame\bin\Debug\net6.0\Content\Tiny Adventure Pack\Other\Misc\Bush.xnb
+C:\Users\g3k01\OneDrive\Desktop\BarArcade\barArcadeGame\bin\Debug\net6.0\Content\Tiny Adventure Pack\Other\Misc\Chest.xnb
+C:\Users\g3k01\OneDrive\Desktop\BarArcade\barArcadeGame\bin\Debug\net6.0\Content\Tiny Adventure Pack\Other\Misc\Grass.xnb
+C:\Users\g3k01\OneDrive\Desktop\BarArcade\barArcadeGame\bin\Debug\net6.0\Content\Tiny Adventure Pack\Other\Misc\Rock.xnb
+C:\Users\g3k01\OneDrive\Desktop\BarArcade\barArcadeGame\bin\Debug\net6.0\Content\Tiny Adventure Pack\Other\Misc\Sign.xnb
+C:\Users\g3k01\OneDrive\Desktop\BarArcade\barArcadeGame\bin\Debug\net6.0\Content\Tiny Adventure Pack\Other\Misc\Tree\Tree.xnb
+C:\Users\g3k01\OneDrive\Desktop\BarArcade\barArcadeGame\bin\Debug\net6.0\Content\Tiny Adventure Pack\Other\Misc\Tree\Tree_top.xnb
+C:\Users\g3k01\OneDrive\Desktop\BarArcade\barArcadeGame\bin\Debug\net6.0\Content\Tiny Adventure Pack\Other\Misc\Tree\Tree_trunk.xnb
+C:\Users\g3k01\OneDrive\Desktop\BarArcade\barArcadeGame\bin\Debug\net6.0\Content\Tiny Adventure Pack\Other\Red_orb.xnb
+C:\Users\g3k01\OneDrive\Desktop\BarArcade\barArcadeGame\bin\Debug\net6.0\Content\Font\defaultFont.spritefont
+C:\Users\g3k01\OneDrive\Desktop\BarArcade\barArcadeGame\bin\Debug\net6.0\barArcadeGame.exe
+C:\Users\g3k01\OneDrive\Desktop\BarArcade\barArcadeGame\bin\Debug\net6.0\barArcadeGame.deps.json
+C:\Users\g3k01\OneDrive\Desktop\BarArcade\barArcadeGame\bin\Debug\net6.0\barArcadeGame.runtimeconfig.json
+C:\Users\g3k01\OneDrive\Desktop\BarArcade\barArcadeGame\bin\Debug\net6.0\barArcadeGame.dll
+C:\Users\g3k01\OneDrive\Desktop\BarArcade\barArcadeGame\bin\Debug\net6.0\barArcadeGame.pdb
+C:\Users\g3k01\OneDrive\Desktop\BarArcade\barArcadeGame\bin\Debug\net6.0\Autofac.dll
+C:\Users\g3k01\OneDrive\Desktop\BarArcade\barArcadeGame\bin\Debug\net6.0\EntityFramework.SqlServer.dll
+C:\Users\g3k01\OneDrive\Desktop\BarArcade\barArcadeGame\bin\Debug\net6.0\EntityFramework.dll
+C:\Users\g3k01\OneDrive\Desktop\BarArcade\barArcadeGame\bin\Debug\net6.0\Microsoft.AspNetCore.Http.Abstractions.dll
+C:\Users\g3k01\OneDrive\Desktop\BarArcade\barArcadeGame\bin\Debug\net6.0\Microsoft.AspNetCore.Http.Extensions.dll
+C:\Users\g3k01\OneDrive\Desktop\BarArcade\barArcadeGame\bin\Debug\net6.0\Microsoft.AspNetCore.Http.Features.dll
+C:\Users\g3k01\OneDrive\Desktop\BarArcade\barArcadeGame\bin\Debug\net6.0\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\g3k01\OneDrive\Desktop\BarArcade\barArcadeGame\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+C:\Users\g3k01\OneDrive\Desktop\BarArcade\barArcadeGame\bin\Debug\net6.0\Microsoft.Net.Http.Headers.dll
+C:\Users\g3k01\OneDrive\Desktop\BarArcade\barArcadeGame\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\g3k01\OneDrive\Desktop\BarArcade\barArcadeGame\bin\Debug\net6.0\MonoGame.Extended.dll
+C:\Users\g3k01\OneDrive\Desktop\BarArcade\barArcadeGame\bin\Debug\net6.0\MonoGame.Extended.Graphics.dll
+C:\Users\g3k01\OneDrive\Desktop\BarArcade\barArcadeGame\bin\Debug\net6.0\MonoGame.Extended.Tiled.dll
+C:\Users\g3k01\OneDrive\Desktop\BarArcade\barArcadeGame\bin\Debug\net6.0\MonoGame.Framework.dll
+C:\Users\g3k01\OneDrive\Desktop\BarArcade\barArcadeGame\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\g3k01\OneDrive\Desktop\BarArcade\barArcadeGame\bin\Debug\net6.0\System.Data.SQLite.dll
+C:\Users\g3k01\OneDrive\Desktop\BarArcade\barArcadeGame\bin\Debug\net6.0\System.CodeDom.dll
+C:\Users\g3k01\OneDrive\Desktop\BarArcade\barArcadeGame\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\g3k01\OneDrive\Desktop\BarArcade\barArcadeGame\bin\Debug\net6.0\System.Data.SqlClient.dll
+C:\Users\g3k01\OneDrive\Desktop\BarArcade\barArcadeGame\bin\Debug\net6.0\System.Data.SQLite.EF6.dll
+C:\Users\g3k01\OneDrive\Desktop\BarArcade\barArcadeGame\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\g3k01\OneDrive\Desktop\BarArcade\barArcadeGame\bin\Debug\net6.0\System.Net.Http.Extensions.dll
+C:\Users\g3k01\OneDrive\Desktop\BarArcade\barArcadeGame\bin\Debug\net6.0\System.Net.Http.Formatting.dll
+C:\Users\g3k01\OneDrive\Desktop\BarArcade\barArcadeGame\bin\Debug\net6.0\System.Net.Http.Primitives.dll
+C:\Users\g3k01\OneDrive\Desktop\BarArcade\barArcadeGame\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\g3k01\OneDrive\Desktop\BarArcade\barArcadeGame\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\g3k01\OneDrive\Desktop\BarArcade\barArcadeGame\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\g3k01\OneDrive\Desktop\BarArcade\barArcadeGame\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\g3k01\OneDrive\Desktop\BarArcade\barArcadeGame\bin\Debug\net6.0\runtimes\linux-x64\native\libSDL2-2.0.so.0
+C:\Users\g3k01\OneDrive\Desktop\BarArcade\barArcadeGame\bin\Debug\net6.0\runtimes\linux-x64\native\libopenal.so.1
+C:\Users\g3k01\OneDrive\Desktop\BarArcade\barArcadeGame\bin\Debug\net6.0\runtimes\osx\native\libSDL2.dylib
+C:\Users\g3k01\OneDrive\Desktop\BarArcade\barArcadeGame\bin\Debug\net6.0\runtimes\osx\native\libopenal.1.dylib
+C:\Users\g3k01\OneDrive\Desktop\BarArcade\barArcadeGame\bin\Debug\net6.0\runtimes\win-x64\native\SDL2.dll
+C:\Users\g3k01\OneDrive\Desktop\BarArcade\barArcadeGame\bin\Debug\net6.0\runtimes\win-x64\native\soft_oal.dll
+C:\Users\g3k01\OneDrive\Desktop\BarArcade\barArcadeGame\bin\Debug\net6.0\runtimes\win-x86\native\SDL2.dll
+C:\Users\g3k01\OneDrive\Desktop\BarArcade\barArcadeGame\bin\Debug\net6.0\runtimes\win-x86\native\soft_oal.dll
+C:\Users\g3k01\OneDrive\Desktop\BarArcade\barArcadeGame\bin\Debug\net6.0\runtimes\win-arm64\native\sni.dll
+C:\Users\g3k01\OneDrive\Desktop\BarArcade\barArcadeGame\bin\Debug\net6.0\runtimes\win-x64\native\sni.dll
+C:\Users\g3k01\OneDrive\Desktop\BarArcade\barArcadeGame\bin\Debug\net6.0\runtimes\win-x86\native\sni.dll
+C:\Users\g3k01\OneDrive\Desktop\BarArcade\barArcadeGame\bin\Debug\net6.0\runtimes\linux-x64\native\SQLite.Interop.dll
+C:\Users\g3k01\OneDrive\Desktop\BarArcade\barArcadeGame\bin\Debug\net6.0\runtimes\osx-x64\native\SQLite.Interop.dll
+C:\Users\g3k01\OneDrive\Desktop\BarArcade\barArcadeGame\bin\Debug\net6.0\runtimes\win-x64\native\SQLite.Interop.dll
+C:\Users\g3k01\OneDrive\Desktop\BarArcade\barArcadeGame\bin\Debug\net6.0\runtimes\win-x86\native\SQLite.Interop.dll
+C:\Users\g3k01\OneDrive\Desktop\BarArcade\barArcadeGame\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\g3k01\OneDrive\Desktop\BarArcade\barArcadeGame\bin\Debug\net6.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\g3k01\OneDrive\Desktop\BarArcade\barArcadeGame\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\g3k01\OneDrive\Desktop\BarArcade\barArcadeGame\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\g3k01\OneDrive\Desktop\BarArcade\barArcadeGame\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\g3k01\OneDrive\Desktop\BarArcade\barArcadeGame\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\g3k01\OneDrive\Desktop\BarArcade\barArcadeGame\obj\Debug\net6.0\barArcad.75AC9963.Up2Date
+C:\Users\g3k01\OneDrive\Desktop\BarArcade\barArcadeGame\obj\Debug\net6.0\barArcadeGame.dll
+C:\Users\g3k01\OneDrive\Desktop\BarArcade\barArcadeGame\obj\Debug\net6.0\refint\barArcadeGame.dll
+C:\Users\g3k01\OneDrive\Desktop\BarArcade\barArcadeGame\obj\Debug\net6.0\barArcadeGame.pdb
+C:\Users\g3k01\OneDrive\Desktop\BarArcade\barArcadeGame\obj\Debug\net6.0\barArcadeGame.genruntimeconfig.cache
+C:\Users\g3k01\OneDrive\Desktop\BarArcade\barArcadeGame\obj\Debug\net6.0\ref\barArcadeGame.dll
+C:\Users\g3k01\OneDrive\Desktop\BarArcade\barArcadeGame\bin\Debug\net6.0\Content\picture\crosshair.xnb
+C:\Users\g3k01\OneDrive\Desktop\BarArcade\barArcadeGame\bin\Debug\net6.0\Content\Tiny Adventure Pack\Character\Char_two\Attack\playerSheetAttack.sf
+C:\Users\g3k01\OneDrive\Desktop\BarArcade\barArcadeGame\bin\Debug\net6.0\Content\Tiny Adventure Pack\Character\Char_two\Attack\playerSheetAttack.xnb
+C:\Users\g3k01\OneDrive\Desktop\BarArcade\barArcadeGame\bin\Debug\net6.0\Content\Sound\dash.xnb
+C:\Users\g3k01\OneDrive\Desktop\BarArcade\barArcadeGame\bin\Debug\net6.0\Content\Sound\ready.xnb
+C:\Users\g3k01\OneDrive\Desktop\BarArcade\barArcadeGame\bin\Debug\net6.0\Content\Tiny Adventure Pack\Character\Char_two\Npc\bobSheetIdle.sf
+C:\Users\g3k01\OneDrive\Desktop\BarArcade\barArcadeGame\bin\Debug\net6.0\Content\Tiny Adventure Pack\Character\Char_two\Npc\Bob_idle_anim_16x16.xnb
