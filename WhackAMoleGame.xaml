@@ -1,0 +1,37 @@
+<Page x:Class="Games.WhackAMoleGame"
+      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+      xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+      xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+      xmlns:local="clr-namespace:Games"
+      mc:Ignorable="d"
+      d:DesignHeight="450" d:DesignWidth="800"
+      Title="WhackAMoleGame">
+
+    <Grid Tag="choices" Background="Black" Margin="0,0,-30,-95">
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="1*"/>
+            <ColumnDefinition Width="5*"/>
+            <ColumnDefinition Width="1*"/>
+        </Grid.ColumnDefinitions>
+
+        <Label x:Name="Highscore" Content="HighScore: 0" HorizontalAlignment="Left" Margin="20,20,0,0" VerticalAlignment="Top" Height="38" Width="300" FontSize="24" Grid.ColumnSpan="2" Foreground="#FFEACD44"/>
+        <Label x:Name="Score" Content="Score: 0" HorizontalAlignment="Left" Margin="20,20,0,0" VerticalAlignment="Top" Height="38" Width="300" FontSize="24" Grid.ColumnSpan="3" Foreground="White"/>
+
+        <Canvas x:Name="GameCanvas" Background="LightGreen"  Margin="51,124,51,125" Grid.Column="1" MouseLeftButtonDown="leftClicked"/>
+        <Rectangle x:Name="LifeBar" Grid.Column="1" Fill="Red" HorizontalAlignment="Left" Height="38" Margin="452,20,0,0" Stroke="Black" VerticalAlignment="Top" Width="900
+                   " Grid.ColumnSpan="2"/>
+        <Label x:Name="Life" Content="Life:" HorizontalAlignment="Left" Margin="393,20,0,0" VerticalAlignment="Top" Height="38" Width="54" FontSize="24" Foreground="White" Grid.Column="1" RenderTransformOrigin="1.203,0.475"/>
+
+        <TextBlock Grid.Column="1" x:Name="endText" Text="" HorizontalAlignment="Center" VerticalAlignment="Top" FontSize="30" Background="#20419A" FontWeight="Bold" Padding="10" Foreground="White" TextTrimming="CharacterEllipsis" TextWrapping="Wrap" RenderTransformOrigin="0.406,1.224" Margin="0,123,0,0"/>
+
+        <Button x:Name="retry" Content="Retry" VerticalAlignment="Top" 
+            FontSize="24" Background="#20419A" FontWeight="Bold" Grid.ColumnSpan="3" Margin="40,330,40,0" Foreground="White" Click="RetryClick"/>
+
+        <Button x:Name="toStore" Grid.Column="0" Content="Main Menu" VerticalAlignment="Top" 
+            FontSize="24" Background="#20419A" FontWeight="Bold" Grid.ColumnSpan="3" 
+            Click="toStoreClick" Margin="40,385,40,0" Foreground="White"/>
+
+    </Grid>
+
+</Page>
