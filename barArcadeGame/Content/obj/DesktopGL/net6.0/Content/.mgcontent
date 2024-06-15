@@ -12,6 +12,7 @@
     <File>C:/Users/g3k01/OneDrive/Desktop/BarArcade/barArcadeGame/Content/picture/coin.png</File>
     <File>C:/Users/g3k01/OneDrive/Desktop/BarArcade/barArcadeGame/Content/picture/crosshair.png</File>
     <File>C:/Users/g3k01/OneDrive/Desktop/BarArcade/barArcadeGame/Content/picture/door.png</File>
+    <File>C:/Users/g3k01/OneDrive/Desktop/BarArcade/barArcadeGame/Content/picture/doorClosed.png</File>
     <File>C:/Users/g3k01/OneDrive/Desktop/BarArcade/barArcadeGame/Content/picture/exit.png</File>
     <File>C:/Users/g3k01/OneDrive/Desktop/BarArcade/barArcadeGame/Content/picture/hero.png</File>
     <File>C:/Users/g3k01/OneDrive/Desktop/BarArcade/barArcadeGame/Content/picture/music.png</File>
@@ -22,6 +23,7 @@
     <File>C:/Users/g3k01/OneDrive/Desktop/BarArcade/barArcadeGame/Content/picture/win.png</File>
     <File>C:/Users/g3k01/OneDrive/Desktop/BarArcade/barArcadeGame/Content/Sound/dash.wav</File>
     <File>C:/Users/g3k01/OneDrive/Desktop/BarArcade/barArcadeGame/Content/Sound/flip.wav</File>
+    <File>C:/Users/g3k01/OneDrive/Desktop/BarArcade/barArcadeGame/Content/Sound/lockedDoor.wav</File>
     <File>C:/Users/g3k01/OneDrive/Desktop/BarArcade/barArcadeGame/Content/Sound/music.mp3</File>
     <File>C:/Users/g3k01/OneDrive/Desktop/BarArcade/barArcadeGame/Content/Sound/ready.wav</File>
     <File>C:/Users/g3k01/OneDrive/Desktop/BarArcade/barArcadeGame/Content/Sound/tear.wav</File>
@@ -59,6 +61,8 @@
     <File>C:/Users/g3k01/OneDrive/Desktop/BarArcade/barArcadeGame/Content/Tiny Adventure Pack/Other/Red_orb.png</File>
   </SourceFiles>
   <DestFiles>
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
     <File xsi:nil="true" />
     <File xsi:nil="true" />
     <File xsi:nil="true" />

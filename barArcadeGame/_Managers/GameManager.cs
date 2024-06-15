@@ -14,23 +14,21 @@ namespace barArcadeGame._Managers
     public class GameManager
     {
         public static bool IsMickDialogueRun;
-        public static bool IsJackDialogueRun;
+        public static bool IsBobDialogueRun;
+        public static bool IsBobDialogueDone = false;
         public Matrix _translation;
-        DialogueManager diaMick;
-        DialogueJackManager diaJack;
+        //DialogueManager diaMick;
+        DialogueBobOutsideController diaBob;
         private readonly List<Button> _buttons = new();
-        //public static Button NextBtn { get; private set; }
-        //public static Button ExitBtn { get; private set; }
 
         public GameManager()
         {
             SoundManager.Init();
             CoinManager.Init(Globals.Content.Load<Texture2D>("picture/coin"));
           
-            IsJackDialogueRun = false;
-            IsMickDialogueRun = false;
-            diaJack = new DialogueJackManager();
-            diaMick = new DialogueManager();
+            IsBobDialogueRun = false;
+            diaBob = new DialogueBobOutsideController();
+            //diaMick = new DialogueManager();
             List<string> list = new();
             AddButton(SoundManager.MusicBtn);
             AddButton(SoundManager.SoundBtn);
@@ -43,22 +41,28 @@ namespace barArcadeGame._Managers
         }
 
 
-        public void runJackDialogue()
+        public void runBobDialogue()
         {
-            if (!IsJackDialogueRun)
+            if (!IsBobDialogueRun)
             {
-                diaJack.Init();
+                diaBob.Init();
 
-                IsJackDialogueRun = true;
+                IsBobDialogueRun = true;
             }
         }
-
-        public void hideJackDialogue()
+        
+        public bool GetBobDialogueRun()
         {
-            if (IsJackDialogueRun)
+            return diaBob.initDone;
+            
+        }
+
+        public void hideBobDialogue()
+        {
+            if (IsBobDialogueRun)
             {
-                diaJack.HideAllSpritesAndTextures();
-                IsJackDialogueRun = false;
+                diaBob.HideAllSpritesAndTextures();
+                IsBobDialogueRun = false;
             }
         }  
 
@@ -69,14 +73,9 @@ namespace barArcadeGame._Managers
                 button.Update();
             }
 
-            if (IsJackDialogueRun)
+            if (IsBobDialogueRun)
             {
-                diaJack.Update();
-            }
-
-            if (IsMickDialogueRun)
-            {
-                diaMick.Update();
+                diaBob.Update();
             }
       
             CoinManager.Update();
@@ -98,15 +97,11 @@ namespace barArcadeGame._Managers
             Globals.SpriteBatch.End();
 
             Globals.SpriteBatch.Begin();
-            if (IsJackDialogueRun)
+            if (IsBobDialogueRun)
             {
-                diaJack.Draw();
+                diaBob.Draw();
             }
 
-            if (IsMickDialogueRun)
-            {
-                diaMick.Draw();
-            }
             Globals.SpriteBatch.End();
         }
     }

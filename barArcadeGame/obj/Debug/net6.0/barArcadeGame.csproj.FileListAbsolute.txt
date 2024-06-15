@@ -542,3 +542,5 @@ C:\Users\g3k01\OneDrive\Desktop\BarArcade\barArcadeGame\bin\Debug\net6.0\Content
 C:\Users\g3k01\OneDrive\Desktop\BarArcade\barArcadeGame\bin\Debug\net6.0\Content\Sound\ready.xnb
 C:\Users\g3k01\OneDrive\Desktop\BarArcade\barArcadeGame\bin\Debug\net6.0\Content\Tiny Adventure Pack\Character\Char_two\Npc\bobSheetIdle.sf
 C:\Users\g3k01\OneDrive\Desktop\BarArcade\barArcadeGame\bin\Debug\net6.0\Content\Tiny Adventure Pack\Character\Char_two\Npc\Bob_idle_anim_16x16.xnb
+C:\Users\g3k01\OneDrive\Desktop\BarArcade\barArcadeGame\bin\Debug\net6.0\Content\picture\doorClosed.xnb
+C:\Users\g3k01\OneDrive\Desktop\BarArcade\barArcadeGame\bin\Debug\net6.0\Content\Sound\lockedDoor.xnb

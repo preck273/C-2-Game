@@ -111,6 +111,18 @@
 /processorParam:TextureFormat=Color
 /build:picture/door.png
 
+#begin picture/doorClosed.png
+/importer:TextureImporter
+/processor:TextureProcessor
+/processorParam:ColorKeyColor=255,0,255,255
+/processorParam:ColorKeyEnabled=True
+/processorParam:GenerateMipmaps=False
+/processorParam:PremultiplyAlpha=True
+/processorParam:ResizeToPowerOfTwo=False
+/processorParam:MakeSquare=False
+/processorParam:TextureFormat=Color
+/build:picture/doorClosed.png
+
 #begin picture/exit.png
 /importer:TextureImporter
 /processor:TextureProcessor
@@ -218,6 +230,12 @@
 /processor:SoundEffectProcessor
 /processorParam:Quality=Best
 /build:Sound/flip.wav
+
+#begin Sound/lockedDoor.wav
+/importer:WavImporter
+/processor:SoundEffectProcessor
+/processorParam:Quality=Best
+/build:Sound/lockedDoor.wav
 
 #begin Sound/music.mp3
 /importer:Mp3Importer

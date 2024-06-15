@@ -16,6 +16,7 @@ public static class SoundManager
     private static SoundEffect _victoryFX;
     private static SoundEffect _dashFX;
     private static SoundEffect _readyDashFX;
+    private static SoundEffect _doorLockedFX;
     private static Song _music;
     public static Button MusicBtn { get; private set; }
     public static Button SoundBtn { get; private set; }
@@ -28,6 +29,7 @@ public static class SoundManager
         _victoryFX = Globals.Content.Load<SoundEffect>("Sound/tear");
         _dashFX = Globals.Content.Load<SoundEffect>("Sound/dash");
         _readyDashFX = Globals.Content.Load<SoundEffect>("Sound/ready");
+        _doorLockedFX = Globals.Content.Load<SoundEffect>("Sound/lockedDoor");
 
         MusicOn = true;
         SoundsOn = true;
@@ -44,15 +46,15 @@ public static class SoundManager
 
     public static void SwitchMusic(object sender, EventArgs e)
     {
-        MusicOn = !MusicOn;
+        MusicOn = false;
         MediaPlayer.Volume = MusicOn ? 0.2f : 0f;
-        MusicBtn.Disabled = !MusicOn;
+        MusicBtn.Disabled = false;
     }
 
     public static void SwitchSounds(object sender, EventArgs e)
     {
-        SoundsOn = !SoundsOn;
-        SoundBtn.Disabled = !SoundsOn;
+        SoundsOn = false;
+        SoundBtn.Disabled = !false;
     }
 
     public static void PlayCollideFx()
@@ -65,6 +67,12 @@ public static class SoundManager
     {
         if (!SoundsOn) return;
         _doorOpenFX.Play();
+    }
+    
+    public static void PlayDoorLockedFX()
+    {
+        if (!SoundsOn) return;
+        _doorLockedFX.Play();
     }
 
     public static void PlayVictoryFX()

@@ -9,7 +9,7 @@ using System.Threading.Tasks;
 
 namespace barArcadeGame.Model
 {
-    internal class Fridge
+    internal class House
     {
 
         public Vector2 _position;
@@ -17,18 +17,34 @@ namespace barArcadeGame.Model
         public Rectangle bounds;
         public bool touch;
 
-        public Fridge(Vector2 pos)
+        public House(Vector2 pos, bool anim)
         {
             touch = false;
-            var doorTex = Globals.Content.Load<Texture2D>("picture/door");
+            var doorOpen = Globals.Content.Load<Texture2D>("picture/door");
+            var doorClosed = Globals.Content.Load<Texture2D>("picture/doorClosed");
             _position = pos;
             bounds = new Rectangle((int)_position.X, (int)_position.Y, 60, 100);
-            _anims.AddAnimation(1, new(doorTex, 7, 2, 0.2f, 1));
-            _anims.AddAnimation(2, new(doorTex, 7, 2, 2000f, 2));
+           
+            _anims.AddAnimation(1, new(doorOpen, 7, 2, 0.2f, 1));
+            _anims.AddAnimation(2, new(doorOpen, 7, 2, 2000f, 2));
+           
         }
 
 
         public void Update()
+        {
+            if (!touch)
+                {
+                    _anims.Update(2);
+            }
+            if (touch)
+            {
+                    _anims.Update(1);
+             }
+            
+           
+        }
+        public void UpdateFight()
         {
             if (!touch)
             {
@@ -36,8 +52,10 @@ namespace barArcadeGame.Model
             }
             if (touch)
             {
-                _anims.Update(1);
+                _anims.Update(2);
             }
+
+
         }
 
         public void Draw(SpriteBatch spriteBatch, Matrix matrix, Matrix transformMatrix)
