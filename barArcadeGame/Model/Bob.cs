@@ -38,7 +38,6 @@ namespace barArcadeGame.Model
             playerSprite = new AnimatedSprite[2];
             pos = new Vector2(200, 50);
             playerBounds = new Rectangle((int)pos.X + 35, (int)pos.Y + 10, 30, 80);
-           // playerBounds = new Rectangle((int)pos.X - 8, (int)pos.Y - 8, 16, 17);
             isStopped = false;
         }
 

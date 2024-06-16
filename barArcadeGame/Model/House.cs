@@ -13,7 +13,7 @@ namespace barArcadeGame.Model
     {
 
         public Vector2 _position;
-        private readonly AnimationManager _anims = new();
+        private readonly AnimationController _anims = new();
         public Rectangle bounds;
         public bool touch;
 

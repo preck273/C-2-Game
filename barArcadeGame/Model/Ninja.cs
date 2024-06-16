@@ -13,7 +13,7 @@ public class Ninja
     public Vector2 Static { get; set; }
     private readonly float _speed = 50f;
     public float Rotation { get; set; }
-    private readonly AnimationManager _anims = new();
+    private readonly AnimationController _anims = new();
     public Rectangle playerBounds;
     public float Speed { get; set; }
     public float MaxX { get; set; } // Maximum X coordinate to move to

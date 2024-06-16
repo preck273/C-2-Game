@@ -60,7 +60,7 @@ namespace barArcadeGame.Model
             if (dashCountdown == 100 && isPlayed == false)
             {
 
-                SoundManager.PlayReadyDashFX();
+                SoundController.PlayReadyDashFX();
                 isPlayed = true;
             }
 
@@ -129,7 +129,7 @@ namespace barArcadeGame.Model
                     if (keyboardstate.IsKeyDown(Keys.Space) && dashCountdown == 100)//Dash
                     {
                         isPlayed = false;
-                        SoundManager.PlayDashFX();
+                        SoundController.PlayDashFX();
                         if (animation == "walkUp")
                         {
                             animation = "walkUp";
@@ -210,8 +210,6 @@ namespace barArcadeGame.Model
                 playerSprite[2].Play(attackanimation);
                 playerSprite[2].Update(gameTime);
             }*/
-
-
 
             Debug.WriteLine($"Left click at position: {mousePosition}");
             Debug.WriteLine(attackanimation);

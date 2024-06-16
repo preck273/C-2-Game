@@ -3,7 +3,7 @@
   <SourceFile>C:/Users/g3k01/OneDrive/Desktop/BarArcade/barArcadeGame/Content/Sound/ready.wav</SourceFile>
   <SourceTime>2024-06-05T13:06:48.9031492+02:00</SourceTime>
   <DestFile>C:/Users/g3k01/OneDrive/Desktop/BarArcade/barArcadeGame/Content/bin/DesktopGL/Sound/ready.xnb</DestFile>
-  <DestTime>2024-06-05T13:08:38.8064533+02:00</DestTime>
+  <DestTime>2024-06-15T18:24:35.2651288+02:00</DestTime>
   <Importer>WavImporter</Importer>
   <ImporterTime>2022-07-26T13:44:56+02:00</ImporterTime>
   <Processor>SoundEffectProcessor</Processor>

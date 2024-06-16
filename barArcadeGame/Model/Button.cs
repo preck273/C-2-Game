@@ -26,11 +26,11 @@ namespace barArcadeGame.Model
         {
             color = Color.White;
 
-            if (_rectangle.Contains(InputManager.MouseRectangle))
+            if (_rectangle.Contains(InputController.MouseRectangle))
             {
                 color = Color.DarkGray;
 
-                if (InputManager.MouseClicked)
+                if (InputController.MouseClicked)
                 {
                     OnClick?.Invoke(this, EventArgs.Empty);
                 }

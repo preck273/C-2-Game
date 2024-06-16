@@ -427,7 +427,6 @@ C:\Users\g3k01\OneDrive\Desktop\BarArcade\barArcadeGame\bin\Debug\net6.0\Content
 C:\Users\g3k01\OneDrive\Desktop\BarArcade\barArcadeGame\bin\Debug\net6.0\Content\picture\coin.xnb
 C:\Users\g3k01\OneDrive\Desktop\BarArcade\barArcadeGame\bin\Debug\net6.0\Content\picture\door.xnb
 C:\Users\g3k01\OneDrive\Desktop\BarArcade\barArcadeGame\bin\Debug\net6.0\Content\picture\exit.xnb
-C:\Users\g3k01\OneDrive\Desktop\BarArcade\barArcadeGame\bin\Debug\net6.0\Content\picture\hero.xnb
 C:\Users\g3k01\OneDrive\Desktop\BarArcade\barArcadeGame\bin\Debug\net6.0\Content\picture\music.xnb
 C:\Users\g3k01\OneDrive\Desktop\BarArcade\barArcadeGame\bin\Debug\net6.0\Content\picture\next.xnb
 C:\Users\g3k01\OneDrive\Desktop\BarArcade\barArcadeGame\bin\Debug\net6.0\Content\picture\ninja.xnb
@@ -443,37 +442,8 @@ C:\Users\g3k01\OneDrive\Desktop\BarArcade\barArcadeGame\bin\Debug\net6.0\Content
 C:\Users\g3k01\OneDrive\Desktop\BarArcade\barArcadeGame\bin\Debug\net6.0\Content\Spaceship 3\Spaceship 3.tmx
 C:\Users\g3k01\OneDrive\Desktop\BarArcade\barArcadeGame\bin\Debug\net6.0\Content\Spaceship 3\Spaceship 3.xnb
 C:\Users\g3k01\OneDrive\Desktop\BarArcade\barArcadeGame\bin\Debug\net6.0\Content\testTile\testTile.tmx
-C:\Users\g3k01\OneDrive\Desktop\BarArcade\barArcadeGame\bin\Debug\net6.0\Content\Tiny Adventure Pack\Character\Char_two\Attack\1.xnb
-C:\Users\g3k01\OneDrive\Desktop\BarArcade\barArcadeGame\bin\Debug\net6.0\Content\Tiny Adventure Pack\Character\Char_two\Attack\2.xnb
-C:\Users\g3k01\OneDrive\Desktop\BarArcade\barArcadeGame\bin\Debug\net6.0\Content\Tiny Adventure Pack\Character\Char_two\Attack\3.xnb
-C:\Users\g3k01\OneDrive\Desktop\BarArcade\barArcadeGame\bin\Debug\net6.0\Content\Tiny Adventure Pack\Character\Char_two\Attack\4.xnb
-C:\Users\g3k01\OneDrive\Desktop\BarArcade\barArcadeGame\bin\Debug\net6.0\Content\Tiny Adventure Pack\Character\Char_two\Char2_4sides.xnb
-C:\Users\g3k01\OneDrive\Desktop\BarArcade\barArcadeGame\bin\Debug\net6.0\Content\Tiny Adventure Pack\Character\Char_two\Idle\Char2_idle_down.xnb
-C:\Users\g3k01\OneDrive\Desktop\BarArcade\barArcadeGame\bin\Debug\net6.0\Content\Tiny Adventure Pack\Character\Char_two\Idle\Char2_idle_left.xnb
-C:\Users\g3k01\OneDrive\Desktop\BarArcade\barArcadeGame\bin\Debug\net6.0\Content\Tiny Adventure Pack\Character\Char_two\Idle\Char2_idle_right.xnb
-C:\Users\g3k01\OneDrive\Desktop\BarArcade\barArcadeGame\bin\Debug\net6.0\Content\Tiny Adventure Pack\Character\Char_two\Idle\Char2_idle_up.xnb
 C:\Users\g3k01\OneDrive\Desktop\BarArcade\barArcadeGame\bin\Debug\net6.0\Content\Tiny Adventure Pack\Character\Char_two\Idle\playerSheetIdle.sf
-C:\Users\g3k01\OneDrive\Desktop\BarArcade\barArcadeGame\bin\Debug\net6.0\Content\Tiny Adventure Pack\Character\Char_two\Idle\playerSheetIdle.xnb
-C:\Users\g3k01\OneDrive\Desktop\BarArcade\barArcadeGame\bin\Debug\net6.0\Content\Tiny Adventure Pack\Character\Char_two\Walk\Char2_walk_down.xnb
-C:\Users\g3k01\OneDrive\Desktop\BarArcade\barArcadeGame\bin\Debug\net6.0\Content\Tiny Adventure Pack\Character\Char_two\Walk\Char2_walk_left.xnb
-C:\Users\g3k01\OneDrive\Desktop\BarArcade\barArcadeGame\bin\Debug\net6.0\Content\Tiny Adventure Pack\Character\Char_two\Walk\Char2_walk_right.xnb
-C:\Users\g3k01\OneDrive\Desktop\BarArcade\barArcadeGame\bin\Debug\net6.0\Content\Tiny Adventure Pack\Character\Char_two\Walk\Char2_walk_up.xnb
 C:\Users\g3k01\OneDrive\Desktop\BarArcade\barArcadeGame\bin\Debug\net6.0\Content\Tiny Adventure Pack\Character\Char_two\Walk\playerSheetWalk.sf
-C:\Users\g3k01\OneDrive\Desktop\BarArcade\barArcadeGame\bin\Debug\net6.0\Content\Tiny Adventure Pack\Character\Char_two\Walk\playerSheetWalk.xnb
-C:\Users\g3k01\OneDrive\Desktop\BarArcade\barArcadeGame\bin\Debug\net6.0\Content\Tiny Adventure Pack\env.xnb
-C:\Users\g3k01\OneDrive\Desktop\BarArcade\barArcadeGame\bin\Debug\net6.0\Content\Tiny Adventure Pack\Other\Blue_orb.xnb
-C:\Users\g3k01\OneDrive\Desktop\BarArcade\barArcadeGame\bin\Debug\net6.0\Content\Tiny Adventure Pack\Other\Coin.xnb
-C:\Users\g3k01\OneDrive\Desktop\BarArcade\barArcadeGame\bin\Debug\net6.0\Content\Tiny Adventure Pack\Other\Green_orb.xnb
-C:\Users\g3k01\OneDrive\Desktop\BarArcade\barArcadeGame\bin\Debug\net6.0\Content\Tiny Adventure Pack\Other\Heart.xnb
-C:\Users\g3k01\OneDrive\Desktop\BarArcade\barArcadeGame\bin\Debug\net6.0\Content\Tiny Adventure Pack\Other\Misc\Bush.xnb
-C:\Users\g3k01\OneDrive\Desktop\BarArcade\barArcadeGame\bin\Debug\net6.0\Content\Tiny Adventure Pack\Other\Misc\Chest.xnb
-C:\Users\g3k01\OneDrive\Desktop\BarArcade\barArcadeGame\bin\Debug\net6.0\Content\Tiny Adventure Pack\Other\Misc\Grass.xnb
-C:\Users\g3k01\OneDrive\Desktop\BarArcade\barArcadeGame\bin\Debug\net6.0\Content\Tiny Adventure Pack\Other\Misc\Rock.xnb
-C:\Users\g3k01\OneDrive\Desktop\BarArcade\barArcadeGame\bin\Debug\net6.0\Content\Tiny Adventure Pack\Other\Misc\Sign.xnb
-C:\Users\g3k01\OneDrive\Desktop\BarArcade\barArcadeGame\bin\Debug\net6.0\Content\Tiny Adventure Pack\Other\Misc\Tree\Tree.xnb
-C:\Users\g3k01\OneDrive\Desktop\BarArcade\barArcadeGame\bin\Debug\net6.0\Content\Tiny Adventure Pack\Other\Misc\Tree\Tree_top.xnb
-C:\Users\g3k01\OneDrive\Desktop\BarArcade\barArcadeGame\bin\Debug\net6.0\Content\Tiny Adventure Pack\Other\Misc\Tree\Tree_trunk.xnb
-C:\Users\g3k01\OneDrive\Desktop\BarArcade\barArcadeGame\bin\Debug\net6.0\Content\Tiny Adventure Pack\Other\Red_orb.xnb
 C:\Users\g3k01\OneDrive\Desktop\BarArcade\barArcadeGame\bin\Debug\net6.0\Content\Font\defaultFont.spritefont
 C:\Users\g3k01\OneDrive\Desktop\BarArcade\barArcadeGame\bin\Debug\net6.0\barArcadeGame.exe
 C:\Users\g3k01\OneDrive\Desktop\BarArcade\barArcadeGame\bin\Debug\net6.0\barArcadeGame.deps.json
@@ -537,10 +507,44 @@ C:\Users\g3k01\OneDrive\Desktop\BarArcade\barArcadeGame\obj\Debug\net6.0\barArca
 C:\Users\g3k01\OneDrive\Desktop\BarArcade\barArcadeGame\obj\Debug\net6.0\ref\barArcadeGame.dll
 C:\Users\g3k01\OneDrive\Desktop\BarArcade\barArcadeGame\bin\Debug\net6.0\Content\picture\crosshair.xnb
 C:\Users\g3k01\OneDrive\Desktop\BarArcade\barArcadeGame\bin\Debug\net6.0\Content\Tiny Adventure Pack\Character\Char_two\Attack\playerSheetAttack.sf
-C:\Users\g3k01\OneDrive\Desktop\BarArcade\barArcadeGame\bin\Debug\net6.0\Content\Tiny Adventure Pack\Character\Char_two\Attack\playerSheetAttack.xnb
 C:\Users\g3k01\OneDrive\Desktop\BarArcade\barArcadeGame\bin\Debug\net6.0\Content\Sound\dash.xnb
 C:\Users\g3k01\OneDrive\Desktop\BarArcade\barArcadeGame\bin\Debug\net6.0\Content\Sound\ready.xnb
 C:\Users\g3k01\OneDrive\Desktop\BarArcade\barArcadeGame\bin\Debug\net6.0\Content\Tiny Adventure Pack\Character\Char_two\Npc\bobSheetIdle.sf
-C:\Users\g3k01\OneDrive\Desktop\BarArcade\barArcadeGame\bin\Debug\net6.0\Content\Tiny Adventure Pack\Character\Char_two\Npc\Bob_idle_anim_16x16.xnb
 C:\Users\g3k01\OneDrive\Desktop\BarArcade\barArcadeGame\bin\Debug\net6.0\Content\picture\doorClosed.xnb
 C:\Users\g3k01\OneDrive\Desktop\BarArcade\barArcadeGame\bin\Debug\net6.0\Content\Sound\lockedDoor.xnb
+C:\Users\g3k01\OneDrive\Desktop\BarArcade\barArcadeGame\bin\Debug\net6.0\Content\Defender\Attack\1.xnb
+C:\Users\g3k01\OneDrive\Desktop\BarArcade\barArcadeGame\bin\Debug\net6.0\Content\Defender\Attack\2.xnb
+C:\Users\g3k01\OneDrive\Desktop\BarArcade\barArcadeGame\bin\Debug\net6.0\Content\Defender\Attack\3.xnb
+C:\Users\g3k01\OneDrive\Desktop\BarArcade\barArcadeGame\bin\Debug\net6.0\Content\Defender\Attack\4.xnb
+C:\Users\g3k01\OneDrive\Desktop\BarArcade\barArcadeGame\bin\Debug\net6.0\Content\Defender\Attack\playerSheetAttack.sf
+C:\Users\g3k01\OneDrive\Desktop\BarArcade\barArcadeGame\bin\Debug\net6.0\Content\Defender\Attack\playerSheetAttack.xnb
+C:\Users\g3k01\OneDrive\Desktop\BarArcade\barArcadeGame\bin\Debug\net6.0\Content\Defender\Char2_4sides.xnb
+C:\Users\g3k01\OneDrive\Desktop\BarArcade\barArcadeGame\bin\Debug\net6.0\Content\Defender\Idle\Char2_idle_down.xnb
+C:\Users\g3k01\OneDrive\Desktop\BarArcade\barArcadeGame\bin\Debug\net6.0\Content\Defender\Idle\Char2_idle_left.xnb
+C:\Users\g3k01\OneDrive\Desktop\BarArcade\barArcadeGame\bin\Debug\net6.0\Content\Defender\Idle\Char2_idle_right.xnb
+C:\Users\g3k01\OneDrive\Desktop\BarArcade\barArcadeGame\bin\Debug\net6.0\Content\Defender\Idle\Char2_idle_up.xnb
+C:\Users\g3k01\OneDrive\Desktop\BarArcade\barArcadeGame\bin\Debug\net6.0\Content\Defender\Idle\playerSheetIdle.sf
+C:\Users\g3k01\OneDrive\Desktop\BarArcade\barArcadeGame\bin\Debug\net6.0\Content\Defender\Idle\playerSheetIdle.xnb
+C:\Users\g3k01\OneDrive\Desktop\BarArcade\barArcadeGame\bin\Debug\net6.0\Content\Defender\Npc\bobSheetIdle.sf
+C:\Users\g3k01\OneDrive\Desktop\BarArcade\barArcadeGame\bin\Debug\net6.0\Content\Defender\Npc\Bob_idle_anim_16x16.xnb
+C:\Users\g3k01\OneDrive\Desktop\BarArcade\barArcadeGame\bin\Debug\net6.0\Content\Defender\Walk\Char2_walk_down.xnb
+C:\Users\g3k01\OneDrive\Desktop\BarArcade\barArcadeGame\bin\Debug\net6.0\Content\Defender\Walk\Char2_walk_left.xnb
+C:\Users\g3k01\OneDrive\Desktop\BarArcade\barArcadeGame\bin\Debug\net6.0\Content\Defender\Walk\Char2_walk_right.xnb
+C:\Users\g3k01\OneDrive\Desktop\BarArcade\barArcadeGame\bin\Debug\net6.0\Content\Defender\Walk\Char2_walk_up.xnb
+C:\Users\g3k01\OneDrive\Desktop\BarArcade\barArcadeGame\bin\Debug\net6.0\Content\Defender\Walk\playerSheetWalk.sf
+C:\Users\g3k01\OneDrive\Desktop\BarArcade\barArcadeGame\bin\Debug\net6.0\Content\Defender\Walk\playerSheetWalk.xnb
+C:\Users\g3k01\OneDrive\Desktop\BarArcade\barArcadeGame\bin\Debug\net6.0\Content\picture\Chest.xnb
+C:\Users\g3k01\OneDrive\Desktop\BarArcade\barArcadeGame\bin\Debug\net6.0\Content\Sound\fight.xnb
+C:\Users\g3k01\OneDrive\Desktop\BarArcade\barArcadeGame\bin\Debug\net6.0\Content\Defender\Enemies\Bomb.sf
+C:\Users\g3k01\OneDrive\Desktop\BarArcade\barArcadeGame\bin\Debug\net6.0\Content\Defender\Enemies\Bomb_sprite.xnb
+C:\Users\g3k01\OneDrive\Desktop\BarArcade\barArcadeGame\bin\Debug\net6.0\Content\Defender\Enemies\close.sf
+C:\Users\g3k01\OneDrive\Desktop\BarArcade\barArcadeGame\bin\Debug\net6.0\Content\Defender\Enemies\Explosions.xnb
+C:\Users\g3k01\OneDrive\Desktop\BarArcade\barArcadeGame\bin\Debug\net6.0\Content\Defender\Enemies\Orc.sf
+C:\Users\g3k01\OneDrive\Desktop\BarArcade\barArcadeGame\bin\Debug\net6.0\Content\Defender\Enemies\Orc.xnb
+C:\Users\g3k01\OneDrive\Desktop\BarArcade\barArcadeGame\bin\Debug\net6.0\Content\Defender\Enemies\range.sf
+C:\Users\g3k01\OneDrive\Desktop\BarArcade\barArcadeGame\bin\Debug\net6.0\Content\Defender\Enemies\slime.sf
+C:\Users\g3k01\OneDrive\Desktop\BarArcade\barArcadeGame\bin\Debug\net6.0\Content\Defender\Enemies\slime.xnb
+C:\Users\g3k01\OneDrive\Desktop\BarArcade\barArcadeGame\bin\Debug\net6.0\Content\Defender\Enemies\TNT_Red.xnb
+C:\Users\g3k01\OneDrive\Desktop\BarArcade\barArcadeGame\bin\Debug\net6.0\Content\Defender\Enemies\Torch_Red.xnb
+C:\Users\g3k01\OneDrive\Desktop\BarArcade\barArcadeGame\bin\Debug\net6.0\Content\Sound\hurt.ogg
+C:\Users\g3k01\OneDrive\Desktop\BarArcade\barArcadeGame\bin\Debug\net6.0\Content\Sound\hurt.xnb
