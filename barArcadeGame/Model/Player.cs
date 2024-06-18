@@ -34,7 +34,7 @@ namespace barArcadeGame.Model
             playerSprite = new AnimatedSprite[3];
             pos = new Vector2(600, 50);
 
-            playerBounds = new Rectangle((int)pos.X + 35, (int)pos.Y + 10, 30, 80);
+            playerBounds = new Rectangle((int)pos.X + 35, (int)pos.Y + 10, 30, 40);
 
         }
         public void Load(SpriteSheet[] spriteSheets, Vector2 location)

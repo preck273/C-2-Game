@@ -69,14 +69,16 @@ namespace barArcadeGame._Managers
         //Each Scene has a wait period at night where the player can buy stuff. The door will take the player to next scene by sleeping to call it
         //Load day anim
         //Load night anim
-        public void Init()
+        public void Init(int level)
         {
-            if (!initDone)
+            if (level == 0)
             {
-                answersSelected = new List<string>();
-                displayQuestions = true;
+                if (!initDone)
+                {
+                    answersSelected = new List<string>();
+                    displayQuestions = true;
 
-                 questions = new List<Speech>
+                    questions = new List<Speech>
              {
                  new Speech("The world is ending and all of earth's DEFENDERS have been wiped out!", new List<string> {"Wiped out? I'm one of them?"}),
                  new Speech("Prove it buy killing the next wave of invaders and I'll aid you in your journey.", new List<string> {}),
@@ -84,11 +86,55 @@ namespace barArcadeGame._Managers
              };
 
 
-                 checkboxChecked = Globals.Content.Load<Texture2D>("picture/checked");
-                 checkboxUnchecked = Globals.Content.Load<Texture2D>("picture/unchecked");
+                    checkboxChecked = Globals.Content.Load<Texture2D>("picture/checked");
+                    checkboxUnchecked = Globals.Content.Load<Texture2D>("picture/unchecked");
 
-                 currentQuestionIndex = 0;
-                 score = 0;
+                    currentQuestionIndex = 0;
+                    score = 0;
+
+                    NextBtn = new(Globals.Content.Load<Texture2D>("picture/next"), new(Globals.Bounds.X - 20, 60));
+                    NextBtn.setScale(new(1, 1));
+                    NextBtn.OnClick += ClickNext;
+                    ExitBtn = new(Globals.Content.Load<Texture2D>("picture/exit"), new(Globals.Bounds.X - 20, 20));
+                    ExitBtn.setScale(new(1, 1));
+                    ExitBtn.OnClick += ClickExit;
+
+                    count = 0;
+
+                    var font = Globals.Content.Load<SpriteFont>("Font/defaultFont");
+
+                    displayText = new(font, new(Globals.Bounds.X / 2, 40));
+
+                    textureBox = new Texture2D(Globals.SpriteBatch.GraphicsDevice, 1, 1);
+                    textureBox.SetData(new Color[] { Color.White });
+                    rectangle = new(0, 0, Globals.Bounds.X, 140);
+                }
+            }
+            if (level == 1)
+            {
+                answersSelected = new List<string>();
+                displayQuestions = true;
+                initDone = false;
+
+                questions = new List<Speech>
+            {
+                new Speech("Welcome to the Bar, click next to order drinks and foods", new List<string> { }),
+                new Speech("I am the bar tender Jack, nice to meet you. Are you happy today?", new List<string> { "Yes I am", "No I am not"}),
+                new Speech("What would you like to do?", new List<string> { "Order drinks", "Order foods"}),
+
+                new Speech("What food you would like to order?", new List<string> { "Bread", "Soup", "Pasta" }),
+                new Speech("Which drink you would like to choose?", result),
+                new Speech("Here you are the food, enjoy!", new List<string> {  }),
+                new Speech("Here you are the drink, enjoy!", new List<string> {  }),
+            };
+
+
+
+                checkboxChecked = Globals.Content.Load<Texture2D>("picture/checked");
+                checkboxUnchecked = Globals.Content.Load<Texture2D>("picture/unchecked");
+
+                currentQuestionIndex = 0;
+                score = 0;
 
                 NextBtn = new(Globals.Content.Load<Texture2D>("picture/next"), new(Globals.Bounds.X - 20, 60));
                 NextBtn.setScale(new(1, 1));
@@ -97,21 +143,25 @@ namespace barArcadeGame._Managers
                 ExitBtn.setScale(new(1, 1));
                 ExitBtn.OnClick += ClickExit;
 
-                 count = 0;
+                count = 0;
 
                 var font = Globals.Content.Load<SpriteFont>("Font/defaultFont");
 
-                 displayText = new(font, new(Globals.Bounds.X / 2, 40));
+                displayText = new(font, new(Globals.Bounds.X / 2, 40));
 
-                 textureBox = new Texture2D(Globals.SpriteBatch.GraphicsDevice, 1, 1);
-                 textureBox.SetData(new Color[] { Color.White });
-                 rectangle = new(0, 0, Globals.Bounds.X, 140);
+                textureBox = new Texture2D(Globals.SpriteBatch.GraphicsDevice, 1, 1);
+                textureBox.SetData(new Color[] { Color.White });
+                rectangle = new(0, 0, Globals.Bounds.X, 140);
             }
             
         }
         
         public void BuyDialogue(int level)
         {
+            if (level == 0) 
+            {
+
+            }
             answersSelected = new List<string>();
             displayQuestions = true;
             initDone = false;

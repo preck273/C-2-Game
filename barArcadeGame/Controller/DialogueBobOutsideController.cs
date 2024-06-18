@@ -46,6 +46,7 @@ namespace barArcadeGame._Managers
         private Texture2D checkboxUnchecked;
 
         public int selectedOption;
+        public int stage;
 
         public bool displayQuestions;
         public bool initDone = false;
@@ -57,9 +58,9 @@ namespace barArcadeGame._Managers
 
         //List<string> value1
         public List<string> result = new List<string> { "coffee", "lemon joice", "red tea" };
-        public List<string> choice1 = new List<string> { "Speed", "Defence", "Nothing" };
-        public List<string> choice2 = new List<string> { "Agility", "Damage", "Nothing" };
-        public List<string> choice3 = new List<string> { "Luck", "Reinforce", "Nothing" };
+        public List<string> choice1 = new List<string> { "Speed", "Defence"};
+        public List<string> choice2 = new List<string> { "Agility", "Damage" };
+        public List<string> choice3 = new List<string> { "Luck", "x0.5" };
 
         //Add sounds for each power up 
         // Final day will never come but make it on a randomiser/ nothing happened
@@ -67,16 +68,17 @@ namespace barArcadeGame._Managers
 
         //Make questions based on scene
         //Each Scene has a wait period at night where the player can buy stuff. The door will take the player to next scene by sleeping to call it
-        //Load day anim
-        //Load night anim
-        public void Init()
+        public void Init(int level)
         {
-            if (!initDone)
+            stage = level;
+            if (level == 0)
             {
-                answersSelected = new List<string>();
-                displayQuestions = true;
+                if (!initDone)
+                {
+                    answersSelected = new List<string>();
+                    displayQuestions = true;
 
-                 questions = new List<Speech>
+                    questions = new List<Speech>
              {
                  new Speech("The world is ending and all of earth's DEFENDERS have been wiped out!", new List<string> {"Wiped out? I'm one of them?"}),
                  new Speech("Prove it buy killing the next wave of invaders and I'll aid you in your journey.", new List<string> {}),
@@ -84,11 +86,51 @@ namespace barArcadeGame._Managers
              };
 
 
-                 checkboxChecked = Globals.Content.Load<Texture2D>("picture/checked");
-                 checkboxUnchecked = Globals.Content.Load<Texture2D>("picture/unchecked");
+                    checkboxChecked = Globals.Content.Load<Texture2D>("picture/checked");
+                    checkboxUnchecked = Globals.Content.Load<Texture2D>("picture/unchecked");
 
-                 currentQuestionIndex = 0;
-                 score = 0;
+                    currentQuestionIndex = 0;
+                    score = 0;
+
+                    NextBtn = new(Globals.Content.Load<Texture2D>("picture/next"), new(Globals.Bounds.X - 20, 60));
+                    NextBtn.setScale(new(1, 1));
+                    NextBtn.OnClick += ClickNext;
+                    ExitBtn = new(Globals.Content.Load<Texture2D>("picture/exit"), new(Globals.Bounds.X - 20, 20));
+                    ExitBtn.setScale(new(1, 1));
+                    ExitBtn.OnClick += ClickExit;
+
+                    count = 0;
+
+                    var font = Globals.Content.Load<SpriteFont>("Font/defaultFont");
+
+                    displayText = new(font, new(Globals.Bounds.X / 2, 40));
+
+                    textureBox = new Texture2D(Globals.SpriteBatch.GraphicsDevice, 1, 1);
+                    textureBox.SetData(new Color[] { Color.White });
+                    rectangle = new(0, 0, Globals.Bounds.X, 140);
+                }
+            }
+            if (level == 1)
+            {
+                answersSelected = new List<string>();
+                displayQuestions = true;
+                initDone = false;
+
+                questions = new List<Speech>
+             {
+                new Speech("After you kill all the monsters, Head back in here to buy an upgrade", new List<string> { }),
+                new Speech("Which upgrade do you want for the next round?", choice1),
+                new Speech("Your speed has been buffed, I appreciate your service", new List<string> { }),
+                new Speech("Your defence has been buffed, I appreciate your service", new List<string> { }),
+            };
+
+
+
+                checkboxChecked = Globals.Content.Load<Texture2D>("picture/checked");
+                checkboxUnchecked = Globals.Content.Load<Texture2D>("picture/unchecked");
+
+                currentQuestionIndex = 0;
+                score = 0;
 
                 NextBtn = new(Globals.Content.Load<Texture2D>("picture/next"), new(Globals.Bounds.X - 20, 60));
                 NextBtn.setScale(new(1, 1));
@@ -97,63 +139,97 @@ namespace barArcadeGame._Managers
                 ExitBtn.setScale(new(1, 1));
                 ExitBtn.OnClick += ClickExit;
 
-                 count = 0;
+                count = 0;
 
                 var font = Globals.Content.Load<SpriteFont>("Font/defaultFont");
 
-                 displayText = new(font, new(Globals.Bounds.X / 2, 40));
+                displayText = new(font, new(Globals.Bounds.X / 2, 40));
 
-                 textureBox = new Texture2D(Globals.SpriteBatch.GraphicsDevice, 1, 1);
-                 textureBox.SetData(new Color[] { Color.White });
-                 rectangle = new(0, 0, Globals.Bounds.X, 140);
+                textureBox = new Texture2D(Globals.SpriteBatch.GraphicsDevice, 1, 1);
+                textureBox.SetData(new Color[] { Color.White });
+                rectangle = new(0, 0, Globals.Bounds.X, 140);
             }
-            
-        }
-        
-        public void BuyDialogue(int level)
-        {
-            answersSelected = new List<string>();
-            displayQuestions = true;
-            initDone = false;
-
-             questions = new List<Speech>
+            if (level == 2)
             {
-                new Speech("Welcome to the Bar, click next to order drinks and foods", new List<string> { }),
-                new Speech("I am the bar tender Jack, nice to meet you. Are you happy today?", new List<string> { "Yes I am", "No I am not"}),
-                new Speech("What would you like to do?", new List<string> { "Order drinks", "Order foods"}),
+                answersSelected = new List<string>();
+                displayQuestions = true;
+                initDone = false;
 
-                new Speech("What food you would like to order?", new List<string> { "Bread", "Soup", "Pasta" }),
-                new Speech("Which drink you would like to choose?", result),
-                new Speech("Here you are the food, enjoy!", new List<string> {  }),
-                new Speech("Here you are the drink, enjoy!", new List<string> {  }),
+                questions = new List<Speech>
+             {
+                new Speech("After you kill all the monsters, Head back in here to buy an upgrade", new List<string> { }),
+                new Speech("Which upgrade do you want for the next round?", choice2),
+                new Speech("Your agility has been buffed, I appreciate your service", new List<string> { }),
+                new Speech("Your damage has been buffed, I appreciate your service", new List<string> { }),
             };
 
 
 
-             checkboxChecked = Globals.Content.Load<Texture2D>("picture/checked");
-             checkboxUnchecked = Globals.Content.Load<Texture2D>("picture/unchecked");
+                checkboxChecked = Globals.Content.Load<Texture2D>("picture/checked");
+                checkboxUnchecked = Globals.Content.Load<Texture2D>("picture/unchecked");
 
-             currentQuestionIndex = 0;
-             score = 0;
+                currentQuestionIndex = 0;
+                score = 0;
 
-            NextBtn = new(Globals.Content.Load<Texture2D>("picture/next"), new(Globals.Bounds.X - 20, 60));
-            NextBtn.setScale(new(1, 1));
-            NextBtn.OnClick += ClickNext;
-            ExitBtn = new(Globals.Content.Load<Texture2D>("picture/exit"), new(Globals.Bounds.X - 20, 20));
-            ExitBtn.setScale(new(1, 1));
-            ExitBtn.OnClick += ClickExit;
+                NextBtn = new(Globals.Content.Load<Texture2D>("picture/next"), new(Globals.Bounds.X - 20, 60));
+                NextBtn.setScale(new(1, 1));
+                NextBtn.OnClick += ClickNext;
+                ExitBtn = new(Globals.Content.Load<Texture2D>("picture/exit"), new(Globals.Bounds.X - 20, 20));
+                ExitBtn.setScale(new(1, 1));
+                ExitBtn.OnClick += ClickExit;
 
-             count = 0;
+                count = 0;
 
-            var font = Globals.Content.Load<SpriteFont>("Font/defaultFont");
+                var font = Globals.Content.Load<SpriteFont>("Font/defaultFont");
 
-             displayText = new(font, new(Globals.Bounds.X / 2, 40));
+                displayText = new(font, new(Globals.Bounds.X / 2, 40));
 
-             textureBox = new Texture2D(Globals.SpriteBatch.GraphicsDevice, 1, 1);
-             textureBox.SetData(new Color[] { Color.White });
-             rectangle = new(0, 0, Globals.Bounds.X, 140);
+                textureBox = new Texture2D(Globals.SpriteBatch.GraphicsDevice, 1, 1);
+                textureBox.SetData(new Color[] { Color.White });
+                rectangle = new(0, 0, Globals.Bounds.X, 140);
+            }
+            if (level == 3)
+            {
+                answersSelected = new List<string>();
+                displayQuestions = true;
+                initDone = false;
+
+                questions = new List<Speech>
+            {
+                new Speech("After you kill all the monsters, Head back in here to buy an upgrade", new List<string> { }),
+                new Speech("Which upgrade do you want for the next round?", choice3),
+                new Speech("Your luck has been buffed, I appreciate your service", new List<string> { }),
+                new Speech("Your stats have been buffed by x.05, I appreciate your service", new List<string> { }),
+                new Speech("Your stats have been buffed by x.05, I appreciate your service", new List<string> { }),
+            };
+
+
+
+                checkboxChecked = Globals.Content.Load<Texture2D>("picture/checked");
+                checkboxUnchecked = Globals.Content.Load<Texture2D>("picture/unchecked");
+
+                currentQuestionIndex = 0;
+                score = 0;
+
+                NextBtn = new(Globals.Content.Load<Texture2D>("picture/next"), new(Globals.Bounds.X - 20, 60));
+                NextBtn.setScale(new(1, 1));
+                NextBtn.OnClick += ClickNext;
+                ExitBtn = new(Globals.Content.Load<Texture2D>("picture/exit"), new(Globals.Bounds.X - 20, 20));
+                ExitBtn.setScale(new(1, 1));
+                ExitBtn.OnClick += ClickExit;
+
+                count = 0;
+
+                var font = Globals.Content.Load<SpriteFont>("Font/defaultFont");
+
+                displayText = new(font, new(Globals.Bounds.X / 2, 40));
+
+                textureBox = new Texture2D(Globals.SpriteBatch.GraphicsDevice, 1, 1);
+                textureBox.SetData(new Color[] { Color.White });
+                rectangle = new(0, 0, Globals.Bounds.X, 140);
+            }
         }
-
+      
         private void initCheck()
         {
             if (displayQuestions && !initDone)
@@ -168,52 +244,96 @@ namespace barArcadeGame._Managers
                 HideAllSpritesAndTextures();
             }
             
-            //waveStart = true;
         }
 
 
         private void CheckAnswer(int selectedOption)
         {
-            if (displayQuestions)
-            {
-                if ( questions[ currentQuestionIndex].Options.Count != 0)
-                {
-                    answersSelected.Add( questions[ currentQuestionIndex].Options[ selectedOption]);
 
-                    if ( questions[ currentQuestionIndex].Options[ selectedOption].Equals("Order foods"))
+            //          databaseController.RemoveCoinValue();
+            //select option at 
+            if (stage == 1)
+            {
+                if (displayQuestions)
+                {
+                    if (questions[currentQuestionIndex].Options.Count != 0)
                     {
-                         currentQuestionIndex = 3;
-                    }
-                    else if ( questions[ currentQuestionIndex].Options[ selectedOption].Equals("Order drinks"))
-                    {
-                         currentQuestionIndex = 4;
-                    }
-                    else
-                    {
-                        if ( currentQuestionIndex == 3)
+                        answersSelected.Add(questions[currentQuestionIndex].Options[selectedOption]);
+
+                        if (questions[currentQuestionIndex].Options[selectedOption].Equals("Speed"))
                         {
-                             currentQuestionIndex = 5;
+                            currentQuestionIndex = 5;
+                            //Speed stats changed here
                         }
-                        else if ( currentQuestionIndex == 4)
+                        else if (questions[currentQuestionIndex].Options[selectedOption].Equals("Defence"))
                         {
-                             currentQuestionIndex = 6;
-                            databaseController.RemoveCoinValue();
+                            currentQuestionIndex = 5;
+                            //Defence stats changed here
                         }
                         else
                         {
-                             currentQuestionIndex++;
+                          currentQuestionIndex++;
+                          
                         }
                     }
-                }
-                else
-                {
-                    if ( currentQuestionIndex == 5)
-                    {
-                         currentQuestionIndex = 7;
-                    }
-                     currentQuestionIndex++;
+
                 }
             }
+            if (stage == 2)
+            {
+                if (displayQuestions)
+                {
+                    if (questions[currentQuestionIndex].Options.Count != 0)
+                    {
+                        answersSelected.Add(questions[currentQuestionIndex].Options[selectedOption]);
+
+                        if (questions[currentQuestionIndex].Options[selectedOption].Equals("Agility"))
+                        {
+                            currentQuestionIndex = 3;
+                            //Speed stats changed here
+                        }
+                        else if (questions[currentQuestionIndex].Options[selectedOption].Equals("Damage"))
+                        {
+                            currentQuestionIndex = 4;
+                            //Defence stats changed here
+                        }
+                        else
+                        {
+
+                            currentQuestionIndex = 5;
+                        }
+                    }
+
+                }
+            }
+            if (stage == 3)
+            {
+                if (displayQuestions)
+                {
+                    if (questions[currentQuestionIndex].Options.Count != 0)
+                    {
+                        answersSelected.Add(questions[currentQuestionIndex].Options[selectedOption]);
+
+                        if (questions[currentQuestionIndex].Options[selectedOption].Equals("Luck"))
+                        {
+                            currentQuestionIndex = 3;
+                            //Speed stats changed here
+                        }
+                        else if (questions[currentQuestionIndex].Options[selectedOption].Equals("x0.5"))
+                        {
+                            currentQuestionIndex = 4;
+                            //Defence stats changed here
+                        }
+                        else
+                        {
+
+                            currentQuestionIndex = 5;
+                        }
+                    }
+
+                }
+            }
+            
             if ( currentQuestionIndex >=  questions.Count)
             {
                 HideAllSpritesAndTextures();

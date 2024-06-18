@@ -41,11 +41,11 @@ namespace barArcadeGame._Managers
         }
 
 
-        public void runBobDialogue()
+        public void runBobDialogue(int scene)
         {
             if (!IsBobDialogueRun)
             {
-                diaBob.Init();
+                diaBob.Init(scene);
 
                 IsBobDialogueRun = true;
             }
@@ -85,10 +85,10 @@ namespace barArcadeGame._Managers
 
         public void Draw()
         {
-            Globals.SpriteBatch.Begin();
+            /*Globals.SpriteBatch.Begin();
             CoinController.Draw();
             Globals.SpriteBatch.End();
-
+*/
             Globals.SpriteBatch.Begin();
             foreach (var button in _buttons)
             {

@@ -5,109 +5,41 @@ using System;
 
 namespace barArcadeGame.Model
 {
-    public class Enemy
+    public class Enemy : ParentEnemy
     {
-        public Vector2 pos;
+        public int count = 1;
+        public int life = 5;
 
-        private AnimatedSprite enemySprite;
-        private SpriteSheet sheet;
-        private float moveSpeed = 1.0f; 
-        public Rectangle enemyBounds;
-        public bool isDead = false;
-        public bool isDying = false;
-        public string animation = "";
-        private Vector2 targetPos;
-        private TimeSpan attackDuration = TimeSpan.FromSeconds(1);
-        private TimeSpan attackTimer = TimeSpan.Zero;
-        private int count = 1;
-        private int life = 5;
-
-        public Enemy()
+        public Enemy() : base()
         {
-            pos = new Vector2(100, 100);
-            enemyBounds = new Rectangle((int)pos.X + 35, (int)pos.Y + 10, 30, 80);
+            scale = new Vector2(2.5f, 2.5f);
+            enemyBounds = new Rectangle((int)pos.X + 35, (int)pos.Y + 10, 30, 30);
         }
-        
+
         public int GetCount()
         {
             return count;
         }
 
-
-
-        public void Load(SpriteSheet spriteSheet, Vector2 location)
+        protected override void Movement(GameTime gameTime, Vector2 playerPos)
         {
-            pos = location;
-            sheet = spriteSheet;
-            enemySprite = new AnimatedSprite(sheet);
-        }
+            targetPos = playerPos;
+            Vector2 direction = targetPos - pos;
 
-        public void Update(GameTime gameTime, Vector2 playerPos)
-        {
-            if (isDead) return;
-
-            if (isDying)
+            if (direction.Length() > 1)
             {
-                attackTimer += gameTime.ElapsedGameTime;
-                if (attackTimer >= attackDuration)
-                {
-                    isDying = false;
-                    isDead = true;
-                    attackTimer = TimeSpan.Zero;
-                }
-                else
-                {
-                    enemySprite.Play("die");
-                    enemySprite.Update(gameTime);
-                }
+                direction.Normalize();
+                pos += direction * moveSpeed;
+
+                animation = "move";
+                enemySprite.Play(animation);
+                enemySprite.Update(gameTime);
             }
             else
             {
-                targetPos = playerPos;
-
-                Vector2 direction = targetPos - pos;
-                if (direction.Length() > 1)
-                {
-                    direction.Normalize();
-                    pos += direction * moveSpeed;
-
-                    animation = "move";
-                    enemySprite.Play(animation);
-                    enemySprite.Update(gameTime);
-                }
-                else 
-                {
-                    Kill();
-                }
+                Kill();
             }
-
-            enemyBounds.X = (int)pos.X - 8;
-            enemyBounds.Y = (int)pos.Y - 8;
         }
 
-        public void Kill()
-        {
-            isDying = true;
-            attackTimer = TimeSpan.Zero;
-        }
-
-        public void Draw(SpriteBatch spriteBatch, Matrix matrix, Matrix transformMatrix)
-        {
-            if (isDead) return;
-
-            spriteBatch.Begin(
-                SpriteSortMode.Deferred,
-                samplerState: SamplerState.PointClamp,
-                effect: null,
-                blendState: null,
-                rasterizerState: null,
-                depthStencilState: null,
-                transformMatrix: transformMatrix);
-
-            Vector2 scale = new Vector2(2.5f, 2.5f);
-            spriteBatch.Draw(enemySprite, pos, 0, scale);
-
-            spriteBatch.End();
-        }
     }
 }
