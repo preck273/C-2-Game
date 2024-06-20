@@ -7,27 +7,33 @@
         mc:Ignorable="d"
         Title="MainWindow" Height="450" Width="800">
     <Grid x:Name="MainGrid">
-
         <Grid.Background>
-            <ImageBrush ImageSource="C:\Users\Pepelito\Downloads\Image\bgImg.jpg"/>
+            <ImageBrush x:Name="bgImageBrush"/>
         </Grid.Background>
-
-        <StackPanel HorizontalAlignment="Center" VerticalAlignment="Center" Width="250" >
+        <StackPanel x:Name="MainButtonsPanel" HorizontalAlignment="Center" VerticalAlignment="Center" Width="250" >
             <Button x:Name="btnPlay" Width="170" Height="45" Margin="10" Click="btnPlay_Click" Background="Transparent" BorderThickness="0">
                 <StackPanel Orientation="Horizontal">
-                    <Image Source="C:\Users\Pepelito\Downloads\Image\Play.png" Width="170" Height="50" Margin="0,0,5,0"/>
+                    <Image x:Name="playImage" Width="170" Height="50" Margin="0,0,5,0"/>
                 </StackPanel>
             </Button>
-            <Button x:Name="btnSettings" Width="170" Height="45" Margin="10" Click="btnSettings_Click"  Background="Transparent" BorderThickness="0">
+            <Button x:Name="btnScore" Width="170" Height="45" Margin="10" Click="btnScore_Click" Background="Transparent" BorderThickness="0">
                 <StackPanel Orientation="Horizontal">
-                    <Image Source="C:\Users\Pepelito\Downloads\Image\settings2.png" Width="170" Height="50" Margin="0,0,5,0"/>
+                    <Image x:Name="scoreImage" Width="170" Height="50" Margin="0,0,5,0"/>
                 </StackPanel>
             </Button>
-            <Button x:Name="btnQuit" Width="170" Height="45" Margin="10" Click="btnQuit_Click"  Background="Transparent" BorderThickness="0">
+            <Button x:Name="btnQuit" Width="170" Height="45" Margin="10" Click="btnQuit_Click" Background="Transparent" BorderThickness="0">
                 <StackPanel Orientation="Horizontal">
-                    <Image Source="C:\Users\Pepelito\Downloads\Image\quit2.png" Width="170" Height="50" Margin="0,0,5,0"/>
+                    <Image x:Name="quitImage" Width="170" Height="50" Margin="0,0,5,0"/>
                 </StackPanel>
             </Button>
+        </StackPanel>
+        <StackPanel x:Name="ScoresPanel" HorizontalAlignment="Center" VerticalAlignment="Center" Width="400" Visibility="Collapsed">
+            <Button x:Name="btnBack" Width="170" Height="45" Margin="10" Click="btnBack_Click" Background="Transparent" BorderThickness="0">
+                <StackPanel Orientation="Horizontal">
+                    <Image x:Name="backImage" Width="170" Height="50" Margin="0,0,5,0"/>
+                </StackPanel>
+            </Button>
+            <DataGrid x:Name="dataGridScores" AutoGenerateColumns="True" Width="200" Height="200"/>
         </StackPanel>
     </Grid>
 </Window>

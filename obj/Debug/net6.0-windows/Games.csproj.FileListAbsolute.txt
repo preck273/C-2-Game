@@ -697,3 +697,13 @@ C:\Users\g3k01\OneDrive\Desktop\BarArcade\Games\bin\Debug\net6.0-windows\Content
 C:\Users\g3k01\OneDrive\Desktop\BarArcade\Games\bin\Debug\net6.0-windows\Content\Sound\ready.xnb
 C:\Users\g3k01\OneDrive\Desktop\BarArcade\Games\bin\Debug\net6.0-windows\Content\Tiny Adventure Pack\Character\Char_two\Npc\bobSheetIdle.sf
 C:\Users\g3k01\OneDrive\Desktop\BarArcade\Games\bin\Debug\net6.0-windows\Content\Tiny Adventure Pack\Character\Char_two\Npc\Bob_idle_anim_16x16.xnb
+C:\Users\Pepelito\Documents\GitHub\C-2-Game\obj\Debug\net6.0-windows\Games.dll
+C:\Users\Pepelito\Documents\GitHub\C-2-Game\obj\Debug\net6.0-windows\refint\Games.dll
+C:\Users\Pepelito\Documents\GitHub\C-2-Game\obj\Debug\net6.0-windows\Games.pdb
+C:\Users\Pepelito\Documents\GitHub\C-2-Game\obj\Debug\net6.0-windows\Games.csproj.AssemblyReference.cache
+C:\Users\Pepelito\Documents\GitHub\C-2-Game\obj\Debug\net6.0-windows\MainWindow.g.cs
+C:\Users\Pepelito\Documents\GitHub\C-2-Game\obj\Debug\net6.0-windows\WhackAMoleGame.g.cs
+C:\Users\Pepelito\Documents\GitHub\C-2-Game\obj\Debug\net6.0-windows\WhackAMoleMain.g.cs
+C:\Users\Pepelito\Documents\GitHub\C-2-Game\obj\Debug\net6.0-windows\App.g.cs
+C:\Users\Pepelito\Documents\GitHub\C-2-Game\obj\Debug\net6.0-windows\Games_MarkupCompile.cache
+C:\Users\Pepelito\Documents\GitHub\C-2-Game\obj\Debug\net6.0-windows\Games_MarkupCompile.lref

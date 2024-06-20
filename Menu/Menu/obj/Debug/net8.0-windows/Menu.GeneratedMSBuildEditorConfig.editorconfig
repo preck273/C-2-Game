@@ -92,3 +92,11 @@ build_metadata.AdditionalFiles.TargetPath =
 build_metadata.AdditionalFiles.FullPath = C:\Users\Pepelito\source\repos\Menu\Menu\App.xaml
 build_metadata.AdditionalFiles.Identity = C:\Users\Pepelito\source\repos\Menu\Menu\App.xaml
 build_metadata.AdditionalFiles.XamlRuntime = Wpf
+
+[C:/Users/Pepelito/source/repos/Menu/BossFightGame/BossFightGame.csproj]
+build_metadata.AdditionalFiles.SourceItemGroup = ProjectReference
+build_metadata.AdditionalFiles.Link = 
+build_metadata.AdditionalFiles.TargetPath = 
+build_metadata.AdditionalFiles.FullPath = C:\Users\Pepelito\source\repos\Menu\BossFightGame\BossFightGame.csproj
+build_metadata.AdditionalFiles.Identity = C:\Users\Pepelito\source\repos\Menu\BossFightGame\BossFightGame.csproj
+build_metadata.AdditionalFiles.XamlRuntime = 

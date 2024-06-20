@@ -4,17 +4,17 @@
 winexe
 C#
 .cs
-C:\Users\g3k01\OneDrive\Desktop\BarArcade\Games\obj\Debug\net6.0-windows\
+C:\Users\Pepelito\Documents\GitHub\C-2-Game\obj\Debug\net6.0-windows\
 Games
 none
 false
 TRACE;DEBUG;NET;NET6_0;NETCOREAPP
-C:\Users\g3k01\OneDrive\Desktop\BarArcade\Games\App.xaml
-3426420023
+C:\Users\Pepelito\Documents\GitHub\C-2-Game\App.xaml
+61017978925
 
-101058976874
-215-424797559
-MainWindow.xaml;WhackAMoleGame.xaml;WhackAMoleMain.xaml;
+220-814206895
+209-1240228764
+MainWindow.xaml;Menu\Menu\App.xaml;Menu\Menu\MainWindow.xaml;Menu\Menu\SettingsWindow.xaml;WhackAMoleGame.xaml;WhackAMoleMain.xaml;
 
-True
+False
 

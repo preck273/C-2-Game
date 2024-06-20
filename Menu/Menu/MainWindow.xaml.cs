@@ -1,4 +1,7 @@
-﻿using System.Text;
+﻿using BossFightGame;
+using Menu.Data;
+using System.Data.SqlClient;
+using System.Text;
 using System.Windows;
 using System.Windows.Controls;
 using System.Windows.Data;
@@ -17,19 +20,34 @@ namespace Menu
 	/// </summary>
 	public partial class MainWindow : Window
 	{
+		private string connectionString = @"Data Source=DESKTOP-MUE5L5M\SQLEXPRESS06;Initial Catalog=GameDB;Integrated Security=True;encrypt=false";
 
 		private MediaPlayer mediaPlayer;
 
 		public MainWindow()
 		{
 			InitializeComponent();
+			SetImageSources();
+			InitializeMediaPlayer();
+		}
 
-			mediaPlayer  = new MediaPlayer();
-
-			mediaPlayer.Open(new Uri("C:\\Users\\Pepelito\\Downloads\\Sound\\backgroundMusic.mp3", UriKind.Relative));
-			mediaPlayer.Volume = 0.5; // Set initial volume to 50%
-			mediaPlayer.MediaEnded += MediaPlayer_MediaEnded;
+		private void InitializeMediaPlayer()
+		{
+			mediaPlayer = new MediaPlayer();
+			mediaPlayer.Open(new Uri("pack://application:,,,/Sounds/backgroundMusic.mp3", UriKind.RelativeOrAbsolute));
 			mediaPlayer.Play();
+		}
+
+		private void SetImageSources()
+		{
+			// Set the background image
+			bgImageBrush.ImageSource = new BitmapImage(new Uri("pack://application:,,,/Images/bgImg.jpg"));
+
+			// Set the images for buttons
+			playImage.Source = new BitmapImage(new Uri("pack://application:,,,/Images/Play.png"));
+			scoreImage.Source = new BitmapImage(new Uri("pack://application:,,,/Images/score.png"));
+			quitImage.Source = new BitmapImage(new Uri("pack://application:,,,/Images/quit2.png"));
+			backImage.Source = new BitmapImage(new Uri("pack://application:,,,/Images/back2.png"));
 		}
 
 
@@ -41,11 +59,15 @@ namespace Menu
 
 		private void btnPlay_Click(object sender, RoutedEventArgs e)
 		{
-			MessageBox.Show("Play button clicked!");
+			this.Close();
+			var game = new Game1();
+			game.Run();
+			
 		}
 
 		private void btnSettings_Click(object sender, RoutedEventArgs e)
 		{
+			
 			SettingsWindow settingsWindow = new SettingsWindow(mediaPlayer.Volume);
 			settingsWindow.VolumeChanged += SettingsWindow_VolumeChanged;
 			settingsWindow.ShowDialog();
@@ -59,6 +81,45 @@ namespace Menu
 		private void btnQuit_Click(object sender, RoutedEventArgs e)
 		{
 			Application.Current.Shutdown();
+		}
+
+		private void btnScore_Click(object sender, RoutedEventArgs e)
+		{
+			LoadPlayerScores();
+		}
+
+		private void btnBack_Click(object sender, RoutedEventArgs e)
+		{
+			ScoresPanel.Visibility = Visibility.Collapsed;
+			MainButtonsPanel.Visibility = Visibility.Visible;
+		}
+
+		private void LoadPlayerScores()
+		{
+			List<PlayerScore> scores = new List<PlayerScore>();
+
+			string query = "SELECT PlayerName, HighScore FROM PlayerScores ORDER BY HighScore DESC";
+			using (SqlConnection connection = new SqlConnection(connectionString))
+			{
+				SqlCommand command = new SqlCommand(query, connection);
+				connection.Open();
+
+				using (SqlDataReader reader = command.ExecuteReader())
+				{
+					while (reader.Read())
+					{
+						scores.Add(new PlayerScore
+						{
+							PlayerName = reader["PlayerName"].ToString(),
+							HighScore = Convert.ToInt32(reader["HighScore"])
+						});
+					}
+				}
+			}
+
+			dataGridScores.ItemsSource = scores;
+			ScoresPanel.Visibility = Visibility.Visible;
+			MainButtonsPanel.Visibility = Visibility.Collapsed;
 		}
 	}
 }
