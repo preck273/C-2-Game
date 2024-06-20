@@ -8,6 +8,14 @@
   </PropertyGroup>
 
   <ItemGroup>
+    <None Remove="Image\back2.png" />
+    <None Remove="Image\bgImg.jpg" />
+    <None Remove="Image\Play.png" />
+    <None Remove="Image\quit2.png" />
+    <None Remove="Image\score.png" />
+  </ItemGroup>
+
+  <ItemGroup>
     <PackageReference Include="Microsoft.AspNetCore.Http.Extensions" Version="2.2.0" />
     <PackageReference Include="Newtonsoft.Json" Version="13.0.3" />
     <PackageReference Include="System.Data.SQLite" Version="1.0.118" />
@@ -19,7 +27,12 @@
     <Folder Include="Files\" />
   </ItemGroup>
 
+
   <ItemGroup>
-    <ProjectReference Include="..\barArcadeGame\barArcadeGame.csproj" />
+    <Resource Include="Image\back2.png" />
+    <Resource Include="Image\bgImg.jpg" />
+    <Resource Include="Image\Play.png" />
+    <Resource Include="Image\quit2.png" />
+    <Resource Include="Image\score.png" />
   </ItemGroup>
 </Project>

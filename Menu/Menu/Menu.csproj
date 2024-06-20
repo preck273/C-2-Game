@@ -1,0 +1,62 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>net8.0-windows</TargetFramework>
+    <Nullable>enable</Nullable>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <UseWPF>true</UseWPF>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <None Remove="Images\back2.png" />
+    <None Remove="Images\bgImg.jpg" />
+    <None Remove="Images\muteU2.png" />
+    <None Remove="Images\Play.png" />
+    <None Remove="Images\quit2.png" />
+    <None Remove="Images\score.png" />
+    <None Remove="Images\settings2.png" />
+    <None Remove="Images\sound2.png" />
+    <None Remove="Sound\backgroundMusic.mp3" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Resource Include="Images\back2.png" />
+    <Resource Include="Images\Play.png" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="System.Data.SqlClient" Version="4.8.6" />
+    <PackageReference Include="Uno.UI" Version="5.2.161" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\BossFightGame\BossFightGame.csproj" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Resource Include="Images\bgImg.jpg" />
+    <Resource Include="Images\muteU2.png" />
+    <Resource Include="Images\quit2.png" />
+    <Resource Include="Images\score.png" />
+    <Resource Include="Images\settings2.png" />
+    <Resource Include="Images\sound2.png" />
+    <Resource Include="Sound\backgroundMusic.mp3" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Compile Update="Properties\Resources.Designer.cs">
+      <DesignTime>True</DesignTime>
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+  </ItemGroup>
+
+  <ItemGroup>
+    <EmbeddedResource Update="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+    </EmbeddedResource>
+  </ItemGroup>
+
+</Project>
