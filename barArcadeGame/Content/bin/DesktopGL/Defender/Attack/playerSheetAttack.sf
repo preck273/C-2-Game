@@ -1,0 +1,29 @@
+{
+  "textureAtlas": {
+    "texture": "playerSheetAttack.png",
+    "regionWidth": 23,
+    "regionHeight": 21
+  },
+  "cycles": {
+    "attackUp": {
+      "frames": [18,19,20,21,22,23],
+      "isLooping": false,
+      "frameDuration": 0.2
+    },
+    "attackDown": {
+      "frames": [0,1,2,3,4,5],
+      "isLooping": false,
+      "frameDuration": 0.2
+    },
+    "attackLeft": {
+      "frames": [6,7,8,9,10,11],
+      "isLooping": false,
+      "frameDuration": 0.2
+    },
+    "attackRight": {
+      "frames": [12,13,14,15,16,17],
+      "isLooping": false,
+      "frameDuration": 0.2
+    }
+  }
+}
