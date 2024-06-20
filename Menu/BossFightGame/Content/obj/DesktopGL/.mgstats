@@ -1,4 +1,0 @@
-Source File,Dest File,Processor Type,Content Type,Source File Size,Dest File Size,Build Seconds
-"C:/Users/Pepelito/source/repos/Menu/BossFightGame/Content/leftSprite.jpg","C:/Users/Pepelito/source/repos/Menu/BossFightGame/Content/bin/DesktopGL/leftSprite.xnb","TextureProcessor","Texture2DContent",2960,22549,0,1914644
-"C:/Users/Pepelito/source/repos/Menu/BossFightGame/Content/Player/Left2.png","C:/Users/Pepelito/source/repos/Menu/BossFightGame/Content/bin/DesktopGL/Player/Left2.xnb","TextureProcessor","Texture2DContent",26913,98689,0,0196035
-"C:/Users/Pepelito/source/repos/Menu/BossFightGame/Content/Player/Right2.png","C:/Users/Pepelito/source/repos/Menu/BossFightGame/Content/bin/DesktopGL/Player/Right2.xnb","TextureProcessor","Texture2DContent",25803,106373,0,0080394
