@@ -4,17 +4,17 @@
 winexe
 C#
 .cs
-C:\Users\Gebruiker\Documents\GitHub\c#2\Games\obj\Release\net6.0-windows\
+C:\Users\kaise\Documents\GitHub\C-2-Game\obj\Release\net6.0-windows\
 Games
 none
 false
 TRACE;RELEASE;NET;NET6_0;NETCOREAPP
-C:\Users\Gebruiker\Documents\GitHub\c#2\Games\App.xaml
-5-1864256613
+C:\Users\kaise\Documents\GitHub\C-2-Game\App.xaml
+3426420023
 
-12-747163023
-215-1722401455
-MainWindow.xaml;QuizGame.xaml;QuizMain.xaml;WhackAMoleGame.xaml;WhackAMoleMain.xaml;
+47-1709128229
+194-2005446070
+MainWindow.xaml;WhackAMoleGame.xaml;WhackAMoleMain.xaml;
 
 True
 

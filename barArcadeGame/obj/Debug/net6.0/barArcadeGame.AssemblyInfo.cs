@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("barArcadeGame")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a348a66fe4cf03d64f77ce31cf868f697dba59ee")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+371d0ae76de68dc2eb21ff55c6acd9c54e790b88")]
 [assembly: System.Reflection.AssemblyProductAttribute("barArcadeGame")]
 [assembly: System.Reflection.AssemblyTitleAttribute("barArcadeGame")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
