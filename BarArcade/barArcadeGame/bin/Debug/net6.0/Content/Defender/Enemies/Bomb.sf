@@ -1,0 +1,14 @@
+{
+  "textureAtlas": {
+    "texture": "Bomb_sprite.png",
+    "regionWidth": 100,
+    "regionHeight": 100
+  },
+  "cycles": {
+    "explode": {
+      "frames": [8,9,10,11,12,13,14,15,16,17,18],
+      "isLooping": false,
+      "frameDuration": 0.2
+    }
+  }
+}
