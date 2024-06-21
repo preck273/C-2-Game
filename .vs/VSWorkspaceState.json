@@ -11,6 +11,6 @@
     "\\barArcadeGame\\Content\\Font",
     "\\barArcadeGame\\Controller"
   ],
-  "SelectedNode": "\\barArcadeGame\\Controller\\databaseController.cs",
+  "SelectedNode": "\\barArcadeGame\\Controller\\TileMapController.cs",
   "PreviewInSolutionExplorer": false
 }
