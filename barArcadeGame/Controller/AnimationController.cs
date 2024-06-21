@@ -1,44 +1,50 @@
-namespace barArcadeGame;
-using Microsoft.Xna.Framework;
-using Microsoft.Xna.Framework.Graphics;
-using Microsoft.Xna.Framework.Input;
-using System.Collections.Generic;
-
-public class AnimationController
+namespace barArcadeGame
 {
-    private readonly Dictionary<object, Animation> _anims = new();
-    private object _lastKey;
+    using Microsoft.Xna.Framework;
+    using Microsoft.Xna.Framework.Graphics;
+    using Microsoft.Xna.Framework.Input;
+    using System.Collections.Generic;
 
-    public void AddAnimation(object key, Animation animation)
+    public class AnimationController
     {
-        _anims.Add(key, animation);
-        _lastKey ??= key;
-    }
+        private readonly Dictionary<object, Animation> _animations = new();
+        private object _currentKey;
 
-    public void Update(object key)
-    {
-        if (_anims.TryGetValue(key, out Animation value))
+        public void AddAnimation(object key, Animation animation)
         {
-            value.Start();
-            _anims[key].Update();
-            _lastKey = key;
+            _animations[key] = animation;
+            _currentKey ??= key;
         }
-        else
+
+        public void Update(object key)
         {
-            _anims[_lastKey].Stop();
-            _anims[_lastKey].Reset();
+            if (_animations.TryGetValue(key, out var animation))
+            {
+                animation.Start();
+                animation.Update();
+                _currentKey = key;
+            }
+            else if (_currentKey != null)
+            {
+                _animations[_currentKey].Stop();
+                _animations[_currentKey].Reset();
+            }
+        }
+
+        public void Draw(Vector2 position)
+        {
+            if (_currentKey != null)
+            {
+                _animations[_currentKey].Draw(position);
+            }
+        }
+
+        public void DrawNinja(Vector2 pos)
+        {
+            if (_currentKey != null)
+            {
+                _animations[_currentKey].DrawNinja(pos);
+            }
         }
     }
-
-    public void Draw(Vector2 position)
-    {
-        _anims[_lastKey].Draw(position);
-    }
-
-    public void DrawNinja(Vector2 pos)
-    {
-        _anims[_lastKey].DrawNinja(pos);
-    }
-
-   
 }

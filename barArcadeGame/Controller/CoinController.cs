@@ -2,52 +2,52 @@ using barArcadeGame.Model;
 using Microsoft.Xna.Framework;
 using Microsoft.Xna.Framework.Graphics;
 using System;
-using System.Collections.Generic;
 
-using System.IO;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-
-
-namespace barArcadeGame._Managers
+namespace barArcadeGame.Managers
 {
     public static class CoinController
     {
-        private static Texture2D _texture;
-        private static Texture2D _textureCoin;
-        private static Rectangle _rectangle;
-        public static int Coins { get; set; } = new();
-        public static Label Label { get; set; }
+        private static Texture2D _coinTexture;
+        private static Texture2D _backgroundTexture;
+        private static Rectangle _backgroundRectangle;
+        public static int Coins { get; private set; }
+        public static Label CoinLabel { get; private set; }
 
-        public static void Init(Texture2D tex)
+        public static void Init(Texture2D coinTexture)
         {
-            _textureCoin = tex;
+            _coinTexture = coinTexture;
             var font = Globals.Content.Load<SpriteFont>("Font/defaultFont");
-            var y = Globals.Bounds.Y / 2;
-            var x = Globals.Bounds.X / 2;
+            var screenHeight = Globals.Bounds.Y;
+            var screenWidth = Globals.Bounds.X;
 
             Coins = 0;
+            CoinLabel = new Label(font, new Vector2(37, screenHeight - 32));
 
-            Label = new(font, new(37, Globals.Bounds.Y - 32));
-
-            _texture = new Texture2D(Globals.SpriteBatch.GraphicsDevice, 1, 1);
-            _texture.SetData(new Color[] { new(200, 80, 30) });
-            _rectangle = new(0, 0, Globals.Bounds.X, 80);
+            _backgroundTexture = new Texture2D(Globals.SpriteBatch.GraphicsDevice, 1, 1);
+            _backgroundTexture.SetData(new[] { new Color(200, 80, 30) });
+            _backgroundRectangle = new Rectangle(0, 0, screenWidth, 80);
         }
 
         public static void Update()
         {
-            Coins = databaseController.GetCoinValue();
-            
+            Coins = DatabaseController.GetCoinValue();
         }
 
         public static void Draw()
         {
-            Label.SetText(Coins.ToString());
-            Label.Draw();
-            Globals.SpriteBatch.Draw(_textureCoin, new(0, Globals.Bounds.Y - 40), null, Color.White * 0.75f, 0f, Vector2.Zero, 0.1f, SpriteEffects.None, 1f);
+            CoinLabel.SetText(Coins.ToString());
+            CoinLabel.Draw();
+            Globals.SpriteBatch.Draw(
+                _coinTexture,
+                new Vector2(0, Globals.Bounds.Y - 40),
+                null,
+                Color.White * 0.75f,
+                0f,
+                Vector2.Zero,
+                0.1f,
+                SpriteEffects.None,
+                1f
+            );
         }
     }
 }
-

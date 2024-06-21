@@ -1,7 +1,16 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\barArcadeGame",
+    "\\barArcadeGame\\Content",
+    "\\barArcadeGame\\Content\\arcade",
+    "\\barArcadeGame\\Content\\barMap",
+    "\\barArcadeGame\\Content\\bin",
+    "\\barArcadeGame\\Content\\bin\\DesktopGL",
+    "\\barArcadeGame\\Content\\bin\\DesktopGL\\arcade",
+    "\\barArcadeGame\\Content\\Font",
+    "\\barArcadeGame\\Controller"
   ],
-  "SelectedNode": "\\database.cs",
+  "SelectedNode": "\\barArcadeGame\\Controller\\databaseController.cs",
   "PreviewInSolutionExplorer": false
 }
